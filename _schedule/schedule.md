@@ -46,12 +46,12 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Race and Racism'
-          readings: [ '.' ]
+          readings: [ 'Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-08
           desc: 'Activism'
-          readings: [ '' ]
+          readings: [ 'Freelon, Deen and McIlwain, Charlton D. and Clark, Meredith D, Beyond the Hashtags: &num;Ferguson, &num;Blacklivesmatter, and the Online Struggle for Offline Justice (February 29, 2016). Center for Media & Social Impact, American University, Forthcoming. Available at SSRN: <a href="https://ssrn.com/abstract=2747066" target="_blank">https://ssrn.com/abstract=2747066</a>.', 'Howard, Philip N. and Duffy, Aiden and Freelon, Deen and Hussain, Muzammil M. and Mari, Will and Maziad, Marwa, Opening Closed Regimes: What Was the Role of Social Media During the Arab Spring? (2011). Available at SSRN: <a href="https://ssrn.com/abstract=2595096" target="_blank">https://ssrn.com/abstract=2595096</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
 ---
 
