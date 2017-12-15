@@ -66,6 +66,19 @@ schedule:
           desc: 'Queer Concepts &amp; Technologies'
           readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.', 'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.', 'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.' ]
           assign: [ 'Use annotations in Google Drive' ]
+
+    - num: 6
+      wkh: 'Research Methodologies &amp; Method'
+      tue:
+        - date: 2018-02-13
+          desc: 'Critical Approaches to Studying a Digital Infrastructure'
+          readings: [ 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
+          assign: [ 'Use annotation of Star &amp; Seaver in Google Drive' ]
+      thu:
+        - date: 2018-02-15
+          desc: 'Autoethnography + Field Data'
+          readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.', 'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
+          assign: [ 'Use annotations in Google Drive' ]
 ---
 
 - num: 2
