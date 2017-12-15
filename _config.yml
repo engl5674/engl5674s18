@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rhetoric of Science &amp; Technology <br/><small>(engl 5674 - S18)</small>"
+title                    : "Rhetoric of Science &amp; Technology <br/><small>(engl 5674)</small>"
 title_separator          : "-"
 name                     : &name "Dr. Chris Lindgren"
 description              : &description "Assistant Professor of Technical Communication &amp; Data Visualization"
