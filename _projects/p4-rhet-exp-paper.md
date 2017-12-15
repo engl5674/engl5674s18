@@ -1,0 +1,25 @@
+---
+title: "Rhetorical Experience Paper"
+collection: projects
+permalink: /projects/p4-rhet-exp-paper/
+points: "100"
+startdate: 2018-03-01
+enddate: "throughout the semester"
+imgurl: /images/*.png
+---
+
+<ul class="project-top-info">
+  <li>
+    <b>Timeframe</b>: 03/01 &ndash; throughout research project</li>
+</ul>
+
+## Description
+
+insert
+
+## Rubric
+
+<ul>
+  <li>
+    insert</li>
+</ul>
