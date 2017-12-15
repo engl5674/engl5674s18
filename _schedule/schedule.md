@@ -53,6 +53,19 @@ schedule:
           desc: 'Activism'
           readings: [ 'Freelon, Deen and McIlwain, Charlton D. and Clark, Meredith D, Beyond the Hashtags: &num;Ferguson, &num;Blacklivesmatter, and the Online Struggle for Offline Justice (February 29, 2016). Center for Media & Social Impact, American University, Forthcoming. Available at SSRN: <a href="https://ssrn.com/abstract=2747066" target="_blank">https://ssrn.com/abstract=2747066</a>.', 'Howard, Philip N. and Duffy, Aiden and Freelon, Deen and Hussain, Muzammil M. and Mari, Will and Maziad, Marwa, Opening Closed Regimes: What Was the Role of Social Media During the Arab Spring? (2011). Available at SSRN: <a href="https://ssrn.com/abstract=2595096" target="_blank">https://ssrn.com/abstract=2595096</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
+
+    - num: 5
+      wkh: 'Queer &amp;&amp; Feminisms'
+      tue:
+        - date: 2018-02-06
+          desc: 'Gender &amp; Programming Values'
+          readings: [ 'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook's software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.', 'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.' ]
+          assign: [ 'Use annotations in Google Drive' ]
+      thu:
+        - date: 2018-02-08
+          desc: 'Queer Concepts &amp; Technologies'
+          readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.', 'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.', 'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.' ]
+          assign: [ 'Use annotations in Google Drive' ]
 ---
 
 - num: 2
