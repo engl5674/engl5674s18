@@ -642,11 +642,11 @@ table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span
 .table td.sixty,.table th.sixty{float:none;width:60%;padding:3px}
 .table td.seventy,.table th.seventy{float:none;width:70%;padding:3px}
 .table tr.hundred,td.hundred,.table th.hundred{float:none;width:100%;padding:3px}
-.table tr > td:nth-child(even) {text-align: center;}
-.table tr > th:nth-child(odd) {text-align: left;}
+.table tr > td.fifteen {text-align: center;}
+.table tr > th {text-align: left;}
 .table tr > th {font-size: 1.25em;font-weight: bolder;text-transform: uppercase;}
 .table tr > th span {font-size: 0.8em;}
-.table tr > th:nth-child(2) {text-align: center;}
+.table tr > th.fifteen {text-align: center;}
 .table tr > th small {font-size: 0.8em;}
 .striped tbody tr:nth-child(even) td,.striped tbody tr:nth-child(even) th{background-color: #eee;}
 ul.tables{margin-left: 3px;list-style-type: none;}
