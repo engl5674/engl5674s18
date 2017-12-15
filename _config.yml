@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Dr. Chris Lindgren"
 description              : &description "Assistant Professor of Technical Communication &amp; Data Visualization"
 url                      : https://engl5674.github.io/engl5674s18 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/engl5674s18" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "engl5674s18"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
