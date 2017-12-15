@@ -1,16 +1,16 @@
 ---
-title: "Use-Annotations"
+title: "Proposal"
 collection: projects
-permalink: /projects/p1-use-annotations/
+permalink: /projects/p2-proposal/
 points: "100"
-startdate: 2018-01-16
-enddate: 2018-02-20
+startdate: 2018-02-20
+enddate: 2018-03-01
 imgurl: /images/*.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 01/16 &ndash; 02/20</li>
+    <b>Timeframe</b>: 02/20 &ndash; 03/01</li>
 </ul>
 
 ## Description

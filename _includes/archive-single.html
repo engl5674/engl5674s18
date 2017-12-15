@@ -34,18 +34,10 @@
       {% endif %}
     </h2>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
     {% if post.collection == 'projects' %}
-
-      <img class="proj-img" src="{{ post.imgurl }}" />
       <ul class="project-top-info">
         <li>
           <b>Timeframe</b>: {{ post.startdate | default: "1900-01-01" | date: "%m/%d/%Y" }} &ndash; {{ post.enddate | default: "1900-01-01" | date: "%m/%d/%Y" }}
-        <li>
-          <b>Points</b>: {{ post.points }}
       </ul>
 
     {% elsif post.collection == 'schedule' %}
