@@ -3,13 +3,13 @@
 <div class="masthead">
   <div class="course-title">
     <h1>
-      <a href="/index.html">{{ site.title }}</a>
+      <a href="engl5674s18/index.html">{{ site.title }}</a>
     </h1>
   </div>
   <nav id="site-nav" class="greedy-nav">
     <ul class="visible-links">
       {% for link in site.data.navigation.main %}
-        <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+        <li class="masthead__menu-item"><a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a></li>
       {% endfor %}
     </ul>
   </nav>
