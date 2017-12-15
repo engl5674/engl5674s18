@@ -111,9 +111,9 @@
 
                 <div class="inner-bordering"></div>
 
-                {% if n.wed %}{% for w in n.wed %}
-                <div class="wednesday">
-                  <h3>Wednesday &ndash; {{ w.date | default: "1900-01-01" | date: "%m/%d" }}: {{ w.desc }}</h3>
+                {% if n.thu %}{% for w in n.thu %}
+                <div class="thursday">
+                  <h3>Thursday &ndash; {{ w.date | default: "1900-01-01" | date: "%m/%d" }}: {{ w.desc }}</h3>
 
                   {% if w.readings %}
                     <h4>Readings</h4>
@@ -144,43 +144,6 @@
 
                 </div>
                 {% endfor %}{% endif %}
-
-                <div class="inner-bordering"></div>
-
-                {% if n.fri %}{% for f in n.fri %}
-                <div class="friday">
-                  <h3>Friday &ndash; {{ f.date | default: "1900-01-01" | date: "%m/%d" }}: {{ f.desc }}</h3>
-
-                  {% if f.readings %}
-                    <h4>Readings</h4>
-                    <ul>
-                      {% for r in f.readings %}
-                        <li>{{ r }}</li>
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
-
-                  {% if f.assign %}
-                    <h4>Assignments</h4>
-                    <ul>
-                      {% for a in f.assign %}
-                        <li>{{ a }}</li>
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
-
-                  {% if w.other %}
-                    <h4>Other Information</h4>
-                    <ul>
-                      {% for o in w.other %}
-                        <li>{{ o }}</li>
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
-
-                </div>
-                {% endfor %}{% endif %}
-
               </div>
             </div>
           </div>
