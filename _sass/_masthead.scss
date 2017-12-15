@@ -1,0 +1,91 @@
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+.masthead {
+  font-family: "Norwester";
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+
+  height: 380px;
+  position: relative;
+  background-color: #660000;
+  color: #fff;
+  overflow: hidden;
+  border-bottom: 10px solid #fe5b00;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1em 1em 1em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.masthead img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+  opacity: 0.1;
+}
+
+.course-title {
+  z-index: 21;
+}
+nav {
+  z-index: 21;
+}
+.course-title h1 a {
+  text-decoration: none;
+  font-family: "Datalegreya-Dot";
+  font-size: 2em;
+  color: #fdb992;
+  text-align: center;
+  cursor: pointer;
+}
+.course-title h1 a:hover {
+  text-decoration: underline;
+}
+
+.masthead__menu {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
+  }
+}

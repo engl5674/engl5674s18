@@ -1,0 +1,93 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: false
+---
+
+{% include base_path %}
+
+<table class="table striped">
+  <thead>
+    <tr>
+      <th class="sixty">
+        D<span>ata</span>-S<span>tory</span> S<span>ub</span>-P<span>rojects</span>
+      </th>
+      <th class="fifteen">
+        P<span>oints</span>
+        <br>
+        <small>(1000 t<span>otal</span>)</small>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td class="sixty">
+        Data Collection
+      </td>
+      <td class="fifteen">
+        100
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        SVG (Scalable Vector Graphics) Data Visualization
+      </td>
+      <td class="fifteen">
+        250
+      </td>
+    </tr>
+
+    <!-- <tr>
+      <td class="sixty">
+        Single-Page Site Wireframe
+      </td>
+      <td class="fifteen">
+        50
+      </td>
+    </tr> -->
+
+    <tr>
+      <td class="sixty">
+        Video Production
+      </td>
+      <td class="fifteen">
+        200
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        HTML5 / CSS3: Developing Your Data Story as a Single-Page Website
+      </td>
+      <td class="fifteen">
+        350
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty">
+        Class Participation
+      </td>
+      <td class="fifteen">
+        100
+      </td>
+    </tr>
+
+    <tr>
+      <td class="sixty" style="text-align:right;">
+        <b>Total</b>
+      </td>
+      <td class="fifteen">
+        <b>1,000</b>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}

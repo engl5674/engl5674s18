@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" class="grid" role="main">
+  <div class="grid__row">
+    {% include sidebar.html %}
+
+    <div class="archive flex__archive">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <h1 class="page__title">{{ page.title }}</h1>
+      {% endunless %}
+      {{ content }}
+    </div>
+  </div>
+</div>

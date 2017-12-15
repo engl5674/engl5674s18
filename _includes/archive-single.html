@@ -1,0 +1,199 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    {% if post.collection == 'projects' %}
+
+      <img class="proj-img" src="{{ post.imgurl }}" />
+      <ul class="project-top-info">
+        <li>
+          <b>Timeframe</b>: {{ post.startdate | default: "1900-01-01" | date: "%m/%d/%Y" }} &ndash; {{ post.enddate | default: "1900-01-01" | date: "%m/%d/%Y" }}
+        <li>
+          <b>Points</b>: {{ post.points }}
+      </ul>
+
+    {% elsif post.collection == 'schedule' %}
+    {% for w in post.schedule %}
+    <div id="flex-schedule">
+      <p>
+        Since no class dynamic is the same, I sometimes must make adjustments to the schedule. If this is the case, I will announce such changes in advance to help you adjust accordingly.
+      </p>
+      <div id="proj-1-container clearfix">
+
+        {% if w.wk %}{% for n in w.wk %}
+          {% if n.startproj == true %}
+          <div id="startproj-data-collection">
+            <h2 class="project-heading">
+              {{ n.sp-title }}
+            </h2>
+          </div>
+          {% endif %}
+          <!-- WK -->
+          <div id="week-{{ n.num }}">
+            <div class="week-side">
+              <h2>
+                Week {{ n.num }} &ndash; {{ n.wkh }}
+              </h2>
+            </div>
+
+            <div class="right-info-details">
+              <div class="daily-info">
+
+                {% if n.mon %}{% for m in n.mon %}
+                <div class="monday">
+                  <h3>Monday &ndash; {{ m.date | default: "1900-01-01" | date: "%m/%d" }}: {{ m.desc }}</h3>
+
+                  {% if m.readings %}
+                    <h4>Readings</h4>
+                    <ul>
+                      {% for r in m.readings %}
+                        <li>{{ r }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if m.assign %}
+                    <h4>Assignments</h4>
+                    <ul>
+                      {% for a in m.assign %}
+                        <li>{{ a }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                </div>
+                {% endfor %}{% endif %}
+
+                <div class="inner-bordering"></div>
+
+                {% if n.wed %}{% for w in n.wed %}
+                <div class="wednesday">
+                  <h3>Wednesday &ndash; {{ w.date | default: "1900-01-01" | date: "%m/%d" }}: {{ w.desc }}</h3>
+
+                  {% if w.readings %}
+                    <h4>Readings</h4>
+                    <ul>
+                      {% for r in w.readings %}
+                        <li>{{ r }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if w.assign %}
+                    <h4>Assignments</h4>
+                    <ul>
+                      {% for a in w.assign %}
+                        <li>{{ a }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                </div>
+                {% endfor %}{% endif %}
+
+                <div class="inner-bordering"></div>
+
+                {% if n.fri %}{% for f in n.fri %}
+                <div class="friday">
+                  <h3>Friday &ndash; {{ f.date | default: "1900-01-01" | date: "%m/%d" }}: {{ f.desc }}</h3>
+
+                  {% if f.readings %}
+                    <h4>Readings</h4>
+                    <ul>
+                      {% for r in f.readings %}
+                        <li>{{ r }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if f.assign %}
+                    <h4>Assignments</h4>
+                    <ul>
+                      {% for a in f.assign %}
+                        <li>{{ a }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                </div>
+                {% endfor %}{% endif %}
+
+              </div>
+            </div>
+          </div>
+          <!-- /WK -->
+          <div class="inner-bordering"></div>
+        {% endfor %}{% endif %}
+        <p>
+          <em>More schedule items coming soon.</em>
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+  </article>
+</div>
