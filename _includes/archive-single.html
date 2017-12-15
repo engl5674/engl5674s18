@@ -75,32 +75,32 @@
             <div class="right-info-details">
               <div class="daily-info">
 
-                {% if n.mon %}{% for m in n.mon %}
-                <div class="monday">
-                  <h3>Monday &ndash; {{ m.date | default: "1900-01-01" | date: "%m/%d" }}: {{ m.desc }}</h3>
+                {% if n.tue %}{% for t in n.tue %}
+                <div class="tuesday">
+                  <h3>Tuesday &ndash; {{ t.date | default: "1900-01-01" | date: "%m/%d" }}: {{ t.desc }}</h3>
 
-                  {% if m.readings %}
+                  {% if t.readings %}
                     <h4>Readings</h4>
                     <ul>
-                      {% for r in m.readings %}
+                      {% for r in t.readings %}
                         <li>{{ r }}</li>
                       {% endfor %}
                     </ul>
                   {% endif %}
 
-                  {% if m.assign %}
+                  {% if t.assign %}
                     <h4>Assignments</h4>
                     <ul>
-                      {% for a in m.assign %}
+                      {% for a in t.assign %}
                         <li>{{ a }}</li>
                       {% endfor %}
                     </ul>
                   {% endif %}
 
-                  {% if w.other %}
+                  {% if t.other %}
                     <h4>Other Information</h4>
                     <ul>
-                      {% for o in w.other %}
+                      {% for o in t.other %}
                         <li>{{ o }}</li>
                       {% endfor %}
                     </ul>

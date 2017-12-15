@@ -341,6 +341,7 @@ div[id^='assign-project-'] p small {
 /* Internal-Schedule Styles */
 div#flex-schedule div[id^='proj-'] {
   margin: -5px;
+  width: 100%;
 }
 div[id^='proj-'] div[id^='week-']:before,
 div[id^='proj-'] div[id^='week-']:after {

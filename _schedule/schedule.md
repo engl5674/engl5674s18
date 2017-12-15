@@ -5,20 +5,14 @@ schedule:
   - wk:
     - num: 1
       wkh: 'TBA'
-      mon:
+      tue:
         - date: 2018-xx-xx
           desc: 'TBA'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
           other: [ '' ]
-      wed:
-        - date: 2017-xx-xx
-          desc: 'TBA'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
-          other: [ '' ]
-      fri:
-        - date: 2017-xx-xx
+      thu:
+        - date: 2018-xx-xx
           desc: 'TBA'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
