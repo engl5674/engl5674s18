@@ -59,7 +59,7 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Gender &amp; Programming Values'
-          readings: [ 'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook's software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.', 'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.' ]
+          readings: [ 'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.', 'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-08
