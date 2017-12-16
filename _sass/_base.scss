@@ -456,6 +456,11 @@ div[id^='proj-'] div[id^='week-']:after {
   font-family: 'BenchNine-Light', sans-serif;
   letter-spacing: 2px;
 }
+@media screen and (max-width:850px) {
+  .week-side {
+    width: 100%;
+  }
+}
 .week-side svg {
   display: block;
   overflow: visible;
@@ -746,4 +751,41 @@ ul.visual-list li span {
   .visual-list > li{
     width: 100%;
   }
+}
+
+/* ============================
+   Tooltip styles
+   Thanks to Andrea Ligios
+   http://jsfiddle.net/AndreaLigios/jtLbpy62/
+   ========================= */
+[tooltip] {
+  cursor: ns-resize;
+}
+[tooltip]:before {
+    /* needed - do not touch */
+    content: attr(tooltip);
+    position: absolute;
+    opacity: 0;
+
+    /* customizable */
+    transition: all 0.15s ease;
+    padding: 5px;
+    color: #333;
+    border-radius: 2px;
+    font-size: 1rem;
+}
+
+[tooltip]:hover:before {
+    /* needed - do not touch */
+    opacity: 1;
+
+    /* customizable */
+    background: #7A0019;
+    color: #ffffff;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+
+[tooltip]:not([tooltip-persistent]):before {
+    pointer-events: none;
 }

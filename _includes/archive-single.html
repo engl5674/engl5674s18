@@ -58,7 +58,7 @@
           {% endif %}
           <!-- WK -->
           <div id="week-{{ n.num }}">
-            <div class="week-side">
+            <div class="week-side" tooltip="Click to expand/hide content.">
               <h2>
                 Week {{ n.num }} &ndash; {{ n.wkh }}
               </h2>
@@ -148,6 +148,7 @@
       </div>
     </div>
     {% endfor %}
+    {% include schedule-toggler.html %}
     {% endif %}
 
   </article>

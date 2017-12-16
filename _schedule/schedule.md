@@ -79,6 +79,19 @@ schedule:
           desc: 'Autoethnography + Field Data'
           readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.', 'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
           assign: [ 'Use annotations in Google Drive' ]
+
+    - num: 7
+      wkh: 'Inventing Our Projects'
+      tue:
+        - date: 2018-02-20
+          desc: 'Research Problems'
+          readings: [ 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.' ]
+          assign: [ 'Use annotation in Google Drive' ]
+      thu:
+        - date: 2018-02-22
+          desc: 'Types of Autoethnographies'
+          readings: [ 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
+          assign: [ 'Use annotations in Google Drive' ]
 ---
 
 - num: 2
