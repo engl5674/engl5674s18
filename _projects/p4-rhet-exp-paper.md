@@ -21,7 +21,7 @@ You will conduct an autoethnographic study of your own, situated, lived rhetoric
 
 ## Objectives
 
-- Conduct an autoethnography that examines your relationship with a particular technology.
+- Conduct an autoethnography that examines your position and relationship with a particular technology.
 - Choose between an evocative, analytical, or ground-theory autoethnography (Pace, 2012).
 - Construct and refine a rhetorical research problem.
 - Construct and refine a preliminary methodology to study it / make sense of it.
