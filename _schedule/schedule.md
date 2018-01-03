@@ -68,27 +68,40 @@ schedule:
           assign: [ 'Use annotations in Google Drive' ]
 
     - num: 6
-      wkh: 'Research Methodologies &amp; Method'
+      wkh: 'Rhetorical Activity in the Sciences'
       tue:
         - date: 2018-02-13
+          desc: 'Rhetoric, Science &amp; Technology'
+          readings: [ 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
+          assign: [ 'Use annotation of Star &amp; Seaver in Google Drive' ]
+      thu:
+        - date: 2018-02-15
+          desc: 'Simulation Sciences'
+          readings: [ 'Chapter from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination: The rhetorical situation of simulations, pp. 1-18</cite>.', 'Wickman, C. (2010). JBTC?' ]
+          assign: [ 'Use annotations in Google Drive' ]
+
+    - num: 7
+      wkh: 'Research Methodologies &amp; Method'
+      tue:
+        - date: 2018-02-20
           desc: 'Critical Approaches to Studying a Digital Infrastructure'
           readings: [ 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
           assign: [ 'Use annotation of Star &amp; Seaver in Google Drive' ]
       thu:
-        - date: 2018-02-15
+        - date: 2018-02-22
           desc: 'Autoethnography + Field Data'
           readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.', 'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
           assign: [ 'Use annotations in Google Drive' ]
 
-    - num: 7
+    - num: 8
       wkh: 'Inventing Our Projects'
       tue:
-        - date: 2018-02-20
+        - date: 2018-02-27
           desc: 'Research Problems'
           readings: [ 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.' ]
           assign: [ 'Use annotation in Google Drive' ]
       thu:
-        - date: 2018-02-22
+        - date: 2018-03-01
           desc: 'Types of Autoethnographies'
           readings: [ 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]

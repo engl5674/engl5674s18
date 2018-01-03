@@ -10,7 +10,7 @@ imgurl: /images/*.png
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 03/01 &ndash; throughout research project</li>
+    <b>Timeframe</b>: 03/01 &ndash; remainder of course</li>
 </ul>
 
 ## Description
@@ -30,5 +30,15 @@ You will conduct an autoethnographic study of your own, situated, lived rhetoric
 
 <ul>
   <li>
-    insert</li>
+    Demonstrates knowledge of a particular field of study within the rhetoric of science/technology, as evinced through your literature review.
+  </li>
+  <li>
+    Refined research problem from your initial proposal.
+  </li>
+  <li>
+    Methodology provides explanatory power for your domain of study.
+  </li>
+  <li>
+    Draws out thoughtful implications for the field of study reviewed earlier in the paper.
+  </li>
 </ul>

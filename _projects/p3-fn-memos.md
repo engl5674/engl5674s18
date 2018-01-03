@@ -17,7 +17,7 @@ imgurl: /images/*.png
 
 Near the end of phase 1 of the course, we will shift our attention to constructing qualitative data for your autoethnographies. Each week you will gather artifacts and write fieldnotes and memos to help you:
 
-- Initially figure out your research problem and question: What your project will focus on,
+- Continuously refine your research problem and question: What your project will focus on,
 - Continue to narrow the focus of your AREX project,
 - Integrate particular readings from the first phase of the course with your rhetorical exeriences with technology, and
 - Any other aspects that you deem important along the way.
