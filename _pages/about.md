@@ -11,7 +11,7 @@ redirect_from:
 Rhetoricians still seem to be coping with how to study and theorize the rhetorical relationship between people and technologies. The ancient art of rhetoric was originally developed within a particular city-state and focuses on the use of speech. In this class, I am challenging us to consider how we dwell in a very different <em>polis</em> (city-state): a place where businesses and governments have invested in a global infrastructure of networked databases that perform operations with textual user-data. Such a communication infrastructure reconfigures the relationships between people and their use of tools and language. Consider some of the following differences between speech communication and contemporary communication mediated by digital and computational technologies:
 
 - Since different people are delivered different content with the same applications, can an interface or device be analyzed with concepts derived about speech interactions or the study of texts?
-- How about the upkepp and revision of networked databases or machine-learning algorithms that such devices employ?
+- How about the creation, maintenance, and revision of networked databases or machine-learning algorithms that such devices employ?
 
 In response to these questions, we will survey, interrogate, and apply developing bodies of rhetorical approaches to theorizing the rhetorics of technology that integrate with the linguistic-textual. Our shared main aim involves understanding how traditionally theorized and practiced rhetorics should be intertwined with the study of our everyday, digital practices that are distributed across diverse contexts of political, social, and rhetorical work.
 
