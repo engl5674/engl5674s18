@@ -33,9 +33,9 @@ Near the end of phase 1 of the course, we will shift our attention to constructi
 
 - Please create the following baseline structure for your project's directory on Google Drive:
 <pre>
-      autoeth-[last name][firstname initial]
-      |--fieldnotes
-      |--memos
+      /autoeth-[last name][firstname initial]
+        /fieldnotes
+        /memos
 </pre>
 - Then, invite me as an editor to this folder.
 - Feel free to invite each other to your Drive folders, so you can comment on particular ideas, memos, sets of texts, etc. This is not required, but a good additional feedback mechanism.

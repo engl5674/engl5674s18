@@ -77,7 +77,7 @@ schedule:
       thu:
         - date: 2018-02-15
           desc: 'Simulation Sciences'
-          readings: [ 'Chapter from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination: The rhetorical situation of simulations, pp. 1-18</cite>.', 'Wickman, C. (2010). JBTC?' ]
+          readings: [ 'Chapter from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination: The rhetorical situation of simulations, pp. 1-18</cite>.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
           assign: [ 'Use annotations in Google Drive' ]
 
     - num: 7
