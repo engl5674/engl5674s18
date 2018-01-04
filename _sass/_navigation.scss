@@ -81,8 +81,9 @@
     margin-left: -1px;
 
     a {
+      min-height: 130px;
+      padding-top: 50px;
       margin-bottom: 0.25em;
-      padding: 0.5em 1em;
       font-family: $sans-serif;
       font-size: 14px;
       font-weight: bold;
