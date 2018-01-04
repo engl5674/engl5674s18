@@ -72,8 +72,8 @@ schedule:
       tue:
         - date: 2018-02-13
           desc: 'Rhetoric, Science &amp; Technology'
-          readings: [ 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
-          assign: [ 'Use annotation of Star &amp; Seaver in Google Drive' ]
+          readings: [ 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.', 'TBA' ]
+          assign: [ 'Use annotation in Google Drive' ]
       thu:
         - date: 2018-02-15
           desc: 'Simulation Sciences'
