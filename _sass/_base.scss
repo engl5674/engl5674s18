@@ -76,6 +76,12 @@ ol.hokie-shade, ul.hokie-shade {
   -webkit-flex-flow: column;
   flex-flow: column;
 }
+@media screen and (min-width:800px) {
+  .grid__row {
+    -webkit-flex-flow: row;
+    flex-flow: row;
+  }
+}
 
 .grid__row > * {
   padding: 10px;
