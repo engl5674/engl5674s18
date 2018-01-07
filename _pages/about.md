@@ -44,9 +44,19 @@ I suggest that we start by reflecting on our own position within this rhetorical
     Learn and apply basic grounded analysis techniques.</li>
 </ul>
 
+
+## Metalog: Explaining the format of the course
+
+I've designed this course in a manner that can be summed up as the 2 following phases:
+
+1. Communal introductory survey
+2. Independent investigations
+
+The first phase offers us a the opportunity to survey 
+
 ## How 5674 differs from a methods course
 
-ENGL 5674 differs from traditional methods courses in the latters survey a variety of methods. In methods courses, students typically must dig deeper into methods of their own particular interest. In this course, I ask you to learn autoethnographic methods for the specific objectives outlined in the next section.
+ENGL 5674 differs from traditional methods courses in the latter surveys a variety of methods. In methods courses, students typically must dig deeper into methods of their own particular interest. In this course, I ask you to learn autoethnographic methods for the specific objectives outlined in the next section.
 
 ## VT Principles of Community
 
