@@ -61,18 +61,3 @@ Overall, this approach to the course is akin to the idea of discoverying a conte
 ### How 5674 differs from a methods course
 
 ENGL 5674 differs from traditional methods courses in that the latter type surveys a variety of **methods**, rather than focusing on just one. Additionally, in methods courses, students typically must dig deeper into methods of their own particular interest. In this course, I ask you to learn autoethnographic methods for the specific objectives outlined in the next section.
-
-## VT Principles of Community
-
-<ul class="visual-list">
-  <li>
-    <span>Diginity &amp; Value</span></li>
-  <li>
-    <span>Civility &amp; Sensibility</span></li>
-  <li>
-    <span>Diviersity &amp; Difference</span></li>
-  <li>
-    <span>Prejudice &amp; Discrimination</span></li>
-  <li>
-    <span><i>Ut Prosim</i> (That I May Serve)</span></li>
-</ul>
