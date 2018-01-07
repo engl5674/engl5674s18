@@ -45,18 +45,22 @@ I suggest that we start by reflecting on our own position within this rhetorical
 </ul>
 
 
-## Metalog: Explaining the format of the course
+## Metalogue: Explaining the format of the course
 
 I've designed this course in a manner that can be summed up as the 2 following phases:
 
 1. Communal introductory survey
 2. Independent investigations
 
-The first phase offers us a the opportunity to survey 
+The first phase offers us a the opportunity to survey scholarship from a variety of subfields in a condensed and intensive environment. This phase serves as an abridged, introductory means, rather than comprehensive or even foundational. For example, some readings may be foundational texts that outline frameworks for your future projects. Other readings offer us scholars who have applied foundational theories, so you can see particular problems and approaches to studying those problems.
 
-## How 5674 differs from a methods course
+The second phase of the course provides us time to independently dig deeper into one of those subfields. Based on your interests, you invent and develop a small study into a research problem that you hook into one of the subfields reviewed in the first phase of the course. This is your opportunity to apply your developing scholarly skills of primary and secondary research with the intent to contribute to the ongoing scholarly conversation.
 
-ENGL 5674 differs from traditional methods courses in the latter surveys a variety of methods. In methods courses, students typically must dig deeper into methods of their own particular interest. In this course, I ask you to learn autoethnographic methods for the specific objectives outlined in the next section.
+Overall, this approach to the course is akin to the idea of discoverying a contemporary band that you love, and later digging into their historical roots. Building on this analogy, you are also an up-and-coming musician, who carves out new creative pathways.
+
+### How 5674 differs from a methods course
+
+ENGL 5674 differs from traditional methods courses in that the latter type surveys a variety of **methods**, rather than focusing on just one. Additionally, in methods courses, students typically must dig deeper into methods of their own particular interest. In this course, I ask you to learn autoethnographic methods for the specific objectives outlined in the next section.
 
 ## VT Principles of Community
 
