@@ -56,7 +56,7 @@ The first phase offers us a the opportunity to survey scholarship from a variety
 
 The second phase of the course provides us time to independently dig deeper into one of those subfields. Based on your interests, you invent and develop a small study into a research problem that you hook into one of the subfields reviewed in the first phase of the course. This is your opportunity to apply your developing scholarly skills of primary and secondary research with the intent to contribute to the ongoing scholarly conversation.
 
-Overall, this approach to the course is akin to the idea of discoverying a contemporary band that you love, and later digging into their historical roots. Building on this analogy, you are also an up-and-coming musician, who carves out new creative pathways.
+Overall, this approach to the course is akin to the idea of discoverying a contemporary band that you love and subsequently digging into their historical roots. Building on this analogy, you are also an up-and-coming musician, who carves out new creative pathways.
 
 ### How 5674 differs from a methods course
 
