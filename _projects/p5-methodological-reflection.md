@@ -17,8 +17,8 @@ imgurl: /images/*.png
 
 In this project, PhD students will include an appendix to their research paper that reflects on their methodology. The goals for the reflection are the following:
 
-- How do think your methodology successfully builds on prior rhetorical scholarship?
-- How did this methodology help you examine your positionality?
+- How does your methodology successfully build on prior rhetorical scholarship?
+- How did this methodology help you examine your position within this infrastructure?
 - What are its limitations and "felt problems"? Obviously, you must consider the preliminary nature and scope of this project, but use this opportunity to consider what next steps this project could and should take.
 
 ## Rubric
