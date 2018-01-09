@@ -8,7 +8,7 @@ redirect_from:
   - /overview.html
 ---
 
-Rhetoricians still seem to be coping with how to study and theorize the rhetorical relationship between people and technologies. The ancient art of rhetoric was originally developed within a particular city-state and focuses on the use of speech. In this class, I am challenging us to consider how we dwell in a very different <em>polis</em> (city-state): a place where businesses and governments have invested in a global infrastructure of networked databases that perform operations with textual user-data. Such a communication infrastructure reconfigures the relationships between people and their use of tools and language. Consider some of the following differences between speech communication and contemporary communication mediated by digital and computational technologies:
+Rhetoricians still seem to be coping with how to study and theorize the rhetorical relationship between people and technologies. The ancient art of rhetoric was originally developed within a particular city-state and focuses on the use of speech. In this class, I am challenging us to consider how we dwell in a very different <em>polis</em> (city-state): a place where businesses and governments have invested in a global infrastructure of networked databases that perform operations with textual user-data.<sup id="fn-takeout"><a href="#footnote">*</a></sup> Such a communication infrastructure reconfigures the relationships between people and their use of tools and language. Consider some of the following differences between speech communication and contemporary communication mediated by digital and computational technologies:
 
 - Since different people are delivered different content with the same applications, can an interface or device be analyzed with concepts derived about speech interactions or the study of texts?
 - How about the creation, maintenance, and revision of networked databases or machine-learning algorithms that such devices employ?
@@ -24,6 +24,14 @@ In response to these questions, we will survey, interrogate, and apply developin
 I am asking us all to take a step back, pause, and consider the following important question: **How can and should we, as rhetoricians, study such a digital infrastructure with very different metes and bounds than those of rhetoric’s origins in ancient Athens?**
 
 I suggest that we start by reflecting on our own position within this rhetorical landscape. By better understanding our own relationship with our everyday digital, networked technologies, we can ask better questions, develop better methodologies, and produce more substantive rhetorical theories for our time. To accomplish this goal, we will examine rhetorical and STS theories that have been and have yet to be integrated with that of mediation, activity, feminist, queer, and race. Graded projects will include weekly annotations during the first half of the course, as a method to prime our class discussions. Additionally, the annotations will help each student work toward the construction of their own rhetorical methodology. In the second half of the course, students will apply these methodologies in a small-scale autoethnography about their own rhetorical experiences with a networked technology. Students will come away from the course with the following: 1) foundational knowledge about emerging methodologies in rhetorics of technology, 2) a pilot of their own methodology, and 3) preliminary insights about their own rhetorical experiences with a networked technology. *PhD students will also be required to articulate implications that their projects have for rhetoric by writing about their methodology and preliminary findings*.
+
+<div id="footnote">
+  <hr>
+  <p>
+    <a href="#fn-takeout">*</a><small>Check out your own personal archive of user-data that Google has been collecting about you via their <a href="https://takeout.google.com/settings/takeout" target="_blank">Takeout</a> service.</small>
+  </p>
+  <hr>
+</div>
 
 ## Objectives
 
