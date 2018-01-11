@@ -23,7 +23,7 @@ schedule:
       tue:
         - date: 2018-01-23
           desc: 'What is Language?'
-          readings: [ 'Harris, R. (2000). Rethinking writing. New York, NY: Continuum. Chp. 3, “Writing off the page,” (pp. 64-90). (Paired with handout summarizing Aristotle’s and Saussure’s respective semiological theories of language.)', 'Vee, A. (2017). Coding literacy. Cambridge, MA: MIT Press.' ]
+          readings: [ 'Harris, R. (2000). Rethinking writing. New York, NY: Continuum. Chp. 3, “Writing off the page,” (pp. 64-90). (Paired with handout summarizing Aristotle’s and Saussure’s respective semiological theories of language.)', 'Chapter in Vee, A. (2017). Coding literacy. Cambridge, MA: MIT Press: Chapter 2, "Sociomaterialities of Programming and Writing," pp. 95-138.' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-01-25
