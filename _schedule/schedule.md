@@ -40,7 +40,7 @@ schedule:
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-01
-          desc: 'Data Rhetorics'
+          desc: 'Data Infrastructure'
           readings: [ 'Lum, K., & Isaac, W. (2016). To predict and serve? Significance, 13(5), 14-19.', 'Tufekci, Z. (2014). Engineering the public: Big data, surveillance and computational politics. First Monday, 19(7). Retrieved 2 Dec. 2017 from <a href="http://firstmonday.org/ojs/index.php/fm/article/view/4901" target="_blank">http://firstmonday.org/ojs/index.php/fm/article/view/4901</a>.', '--. (2017). We’re building a dystopia just to make people click on ads. TEDGlobal-NYC. Retrieved 30 Nov. 2017 from <a href="https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript" target="_blank">https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads/transcript</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
 
@@ -49,7 +49,7 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Race and Racism'
-          readings: [ 'Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.' ]
+          readings: [ 'Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Daniels, J. (2012). Race and racism in Internet Studies: A review and critique. <cite>New Media &amp; Society, 15</cite>, pp. 695–719.', '<del>Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.</del>' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-08
