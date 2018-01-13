@@ -35,7 +35,7 @@ schedule:
       wkh: 'Algorithms &amp; Procedures'
       tue:
         - date: 2018-01-30
-          desc: 'Automaton and Distributed Rhetorics'
+          desc: 'Softwares &amp; Bots'
           readings: [ 'Brown, Jr., J. (2015). Processing power: Procedural rhetoric and protocol. Chapter in Ethical programs: Hospitality and the rhetorics of software. Ann Arbor, MI: University of Michigan Press. Available at <a href="http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1" target="_blank">http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1</a>.', 'Laquintano, T. and Vee, A. (2017). How automated writing systems affect the circulation of political information online. Literacy in Composition Studies, 5(2). Retrieved 11 Dec. 2017 from <a href="http://licsjournal.org/OJS/index.php/LiCS/article/view/169/219" target="_blank">http://licsjournal.org/OJS/index.php/LiCS/article/view/169/219</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
@@ -70,8 +70,8 @@ schedule:
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-15
-          desc: 'Queer Concepts &amp; Technologies'
-          readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.', 'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.', 'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.' ]
+          desc: 'Queer Concepts, Bodies, Minds, &amp; Technologies'
+          readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.', 'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.', 'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.', 'Chapter in yergeau, m. (2018). <cite>Authoring Autism: on rhetoric and neurological queerness</cite>. Durham, NC: Duke UP: Chp. 1, Intervention, pp. 35-88.' ]
           assign: [ 'Use annotations in Google Drive' ]
 
     - num: 6
