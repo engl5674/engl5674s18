@@ -28,7 +28,7 @@ schedule:
       thu:
         - date: 2018-01-25
           desc: 'Language &amp; Material Infrastructure'
-          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193. ', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 3, “Of mud, media, and the metropolis: Aggregating histories of writing and urbanization,” (pp. 85-114).' ]
+          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193. ', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).' ]
           assign: [ 'Use annotations in Google Drive' ]
 
     - num: 3
@@ -53,7 +53,7 @@ schedule:
       tue:
         - date: 2018-02-06
           desc: 'Race and Racism'
-          readings: [ 'Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Daniels, J. (2012). Race and racism in Internet Studies: A review and critique. <cite>New Media &amp; Society, 15</cite>, pp. 695–719.', 'Chapter in Noble, S. U. (2018). <cite>Algorithms of oppression: How search engines reinforce racism</cite>. New York, NY: NYU Press: Chapter 2, Searching for black girls, Kindle locations 1174-1791.', '<del>Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.</del>' ]
+          readings: [ 'Chapter 5 in Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Daniels, J. (2012). Race and racism in Internet Studies: A review and critique. <cite>New Media &amp; Society, 15</cite>, pp. 695–719.', 'Chapter in Noble, S. U. (2018). <cite>Algorithms of oppression: How search engines reinforce racism</cite>. New York, NY: NYU Press: Chapter 2, Searching for black girls, Kindle locations 1174-1791.', '<del>Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.</del>' ]
           assign: [ 'Use annotations in Google Drive' ]
       thu:
         - date: 2018-02-08
