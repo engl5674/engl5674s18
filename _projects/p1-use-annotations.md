@@ -31,9 +31,12 @@ I call these use-annotations, since I ask you to first summarize the text and su
 - Ask questions about sources of confusion, disagreement, or what you deem as important; and/or
 - Consider potential ideas and questions about how to apply or respond.
 
+See this <a href="https://docs.google.com/document/d/1ebbyN0oJB4BzQDDjCxF32Of7RoTBILH6cBbQyHts-n4/edit?usp=sharing" target="_blank">example</a> for your reference.
+
 ## Logistics
 
 - ~300-400 words, unless otherwise noted.
+- Write 10 total sets of use-annotations.
 - Uses my "brand" of APA in which you cite the page numbers of particular places of the text, while avoiding direct quotation.
 - Due before class in 2 designated Google Drive folders. The first will be shared just before class within our shared Google Drive folder. The second will be shared with me within your personal Drive folder for review purposes. Accordingly, please create the following baseline structure-scheme for this class in your VT Google Drive:
 <pre>
