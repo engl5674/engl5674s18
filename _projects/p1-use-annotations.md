@@ -4,13 +4,13 @@ collection: projects
 permalink: /projects/p1-use-annotations/
 points: "100"
 startdate: 2018-01-16
-enddate: 2018-02-20
+enddate: "ongoing"
 imgurl: /images/*.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 01/16 &ndash; 02/20</li>
+    <b>Timeframe</b>: 01/16 &ndash; ongoing</li>
 </ul>
 
 ## Description
