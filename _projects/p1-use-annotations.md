@@ -35,7 +35,7 @@ I call these use-annotations, since I ask you to first summarize the text and su
 
 - ~300-400 words, unless otherwise noted.
 - Uses my "brand" of APA in which you cite the page numbers of particular places of the text, while avoiding direct quotation.
-- Due before class in the designated Google Drive folder. Please create the following baseline structure for this class on your VT Google Drive:
+- Due before class in 2 designated Google Drive folders. The first will be shared just before class within our shared Google Drive folder. The second will be shared with me within your personal Drive folder for review purposes. Accordingly, please create the following baseline structure-scheme for this class in your VT Google Drive:
 <pre>
       /engl5674s18-[last name][firstname initial]
         /annotations
