@@ -92,7 +92,7 @@ schedule:
       tue:
         - date: 2018-02-27
           desc: 'Critical Approaches to Studying a Digital Infrastructure'
-          readings: [ 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
+          readings: [ 'Proposal project page.', 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
           assign: [ 'Use annotation of Star &amp; Seaver in Google Drive' ]
       thu:
         - date: 2018-03-01
@@ -113,14 +113,14 @@ schedule:
       wkh: 'Inventing Our Projects'
       tue:
         - date: 2018-03-13
-          desc: 'Research Problems'
-          readings: [ 'Proposal Project Page', 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.' ]
+          desc: 'Research Problems &amp; Types of Autoethnographies'
+          readings: [ 'Review the Proposal Project page', 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.', 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
           assign: [ 'Use annotation in Google Drive', 'Complete the set of prompts provided at the end of the chapter.' ]
       thu:
         - date: 2018-03-15
-          desc: 'Types of Autoethnographies'
-          readings: [ 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
-          assign: [ 'Use annotation in Google Drive' ]
+          desc: 'TBA'
+          readings: [ 'TBA' ]
+          assign: [ 'Proposal due in Google Drive' ]
 ---
 
 - num: 2
