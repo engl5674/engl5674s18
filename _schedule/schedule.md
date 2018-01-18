@@ -44,7 +44,8 @@ schedule:
           readings: [
             'Frith, J. (2017). Big data, technical communication, and the smart city. <cite>Journal of Business and Technical Communication, 31</cite>, pp. 168-187.',
             'Lum, K., & Isaac, W. (2016). To predict and serve? Significance, 13(5), 14-19.',
-            'Tufekci, Z. (2014). Engineering the public: Big data, surveillance and computational politics. First Monday, 19(7). Retrieved 2 Dec. 2017 from <a href="http://firstmonday.org/ojs/index.php/fm/article/view/4901" target="_blank">http://firstmonday.org/ojs/index.php/fm/article/view/4901</a>.',
+            'Johnson, S. (2018, Jan. 16). Beyond the Bitcoin Bubble. <cite>The New York Times</cite>. Retrieved 17 Jan. 2018 from <a href="https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html" target="_blank">https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html</a>.',
+            '<del>Tufekci, Z. (2014). Engineering the public: Big data, surveillance and computational politics. First Monday, 19(7). Retrieved 2 Dec. 2017 from <a href="http://firstmonday.org/ojs/index.php/fm/article/view/4901" target="_blank">http://firstmonday.org/ojs/index.php/fm/article/view/4901</a></del>.',
             '--. (2018, Jan. 16). It&#8217;s the (Democracy-poisoning) Golden Age of free speech. <cite>WIRED.com</cite>. Retrieved 17 Jan. 2018 from <a href="https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/" target="_blank">https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/</a>.' ]
           assign: [ 'Use annotations in Google Drive' ]
 
