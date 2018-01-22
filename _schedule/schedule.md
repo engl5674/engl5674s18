@@ -16,7 +16,7 @@ schedule:
             'Burke (1950/1969). Traditional principles of rhetoric. Chapter 2 in A rhetoric of motives (pp. 49-65). University of California Press.',
             'Haas, C. (1996). Chapters 1 & 2 in Writing technology: Studies on the materiality of literacy (pp. 1-47). New York, NY: Routledge.',
             '<del>Clark, D. (2010). Shaped and Shaping Tools: The rhetorical nature of technical communication technologies. Spilka, Ed., Digital literacy for Technical communication, (pp. 85-102). New York, NY: Routledge.</del>' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 2
       wkh: 'Theories of Mediation &amp; Materiality'
@@ -24,12 +24,12 @@ schedule:
         - date: 2018-01-23
           desc: 'What is Language?'
           readings: [ 'Harris, R. (2000). Rethinking writing. New York, NY: Continuum. Chp. 3, “Writing off the page,” (pp. 64-90). (Paired with handout summarizing Aristotle’s and Saussure’s respective semiological theories of language.)', 'Chapter in Vee, A. (2017). Coding literacy. Cambridge, MA: MIT Press: Chapter 2, "Sociomaterialities of Programming and Writing," pp. 95-138.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-01-25
           desc: 'Language &amp; Material Infrastructure'
-          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193. ', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193. ', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).', 'Gillespie, T. (2017, August 25). Is “platform” the right metaphor for the technology companies that dominate digital media? </cite>Nieman Lab</cite> [html/text]. Retrieved January 22, 2018, from <a href="http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/" target="_blank">http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/</a>.' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 3
       wkh: 'Algorithms &amp; Procedures'
@@ -37,7 +37,7 @@ schedule:
         - date: 2018-01-30
           desc: 'Softwares &amp; Bots'
           readings: [ 'Brown, Jr., J. (2015). Processing power: Procedural rhetoric and protocol. Chapter in Ethical programs: Hospitality and the rhetorics of software. Ann Arbor, MI: University of Michigan Press. Available at <a href="http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1" target="_blank">http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1</a>.', 'Laquintano, T. and Vee, A. (2017). How automated writing systems affect the circulation of political information online. Literacy in Composition Studies, 5(2). Retrieved 11 Dec. 2017 from <a href="http://licsjournal.org/OJS/index.php/LiCS/article/view/169/219" target="_blank">http://licsjournal.org/OJS/index.php/LiCS/article/view/169/219</a>.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-01
           desc: 'Data Infrastructure'
@@ -47,7 +47,7 @@ schedule:
             'Johnson, S. (2018, Jan. 16). Beyond the Bitcoin Bubble. <cite>The New York Times</cite>. Retrieved 17 Jan. 2018 from <a href="https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html" target="_blank">https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html</a>.',
             '<del>Tufekci, Z. (2014). Engineering the public: Big data, surveillance and computational politics. First Monday, 19(7). Retrieved 2 Dec. 2017 from <a href="http://firstmonday.org/ojs/index.php/fm/article/view/4901" target="_blank">http://firstmonday.org/ojs/index.php/fm/article/view/4901</a></del>.',
             '--. (2018, Jan. 16). It&#8217;s the (Democracy-poisoning) Golden Age of free speech. <cite>WIRED.com</cite>. Retrieved 17 Jan. 2018 from <a href="https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/" target="_blank">https://www.wired.com/story/free-speech-issue-tech-turmoil-new-censorship/</a>.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 4
       wkh: 'Race &amp; Racism, and Activism'
@@ -55,12 +55,12 @@ schedule:
         - date: 2018-02-06
           desc: 'Race and Racism'
           readings: [ 'Chapter 5 in Banks, A. (2006). Race, rhetoric, and technology: Searching for higher ground. LEA and NCTE.', 'Daniels, J. (2012). Race and racism in Internet Studies: A review and critique. <cite>New Media &amp; Society, 15</cite>, pp. 695–719.', 'Chapter in Noble, S. U. (2018). <cite>Algorithms of oppression: How search engines reinforce racism</cite>. New York, NY: NYU Press: Chapter 2, Searching for black girls, Kindle locations 1174-1791.', '<del>Wilson III, E.J. & Costanza-Chock, S. (2012). New voices on the net: The digital journalism divide and the costs of network exclusion. In L. Nakamura & P.A. Chow-White (Eds.), Race After the Internet (pp. 246-268). New York, NY: Routledge.</del>' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-08
           desc: 'Activism'
           readings: [ 'Freelon, Deen and McIlwain, Charlton D. and Clark, Meredith D, Beyond the Hashtags: &num;Ferguson, &num;Blacklivesmatter, and the Online Struggle for Offline Justice (February 29, 2016). Center for Media & Social Impact, American University, Forthcoming. Available at SSRN: <a href="https://ssrn.com/abstract=2747066" target="_blank">https://ssrn.com/abstract=2747066</a>.', 'Poe-Alexander, K. and Hahner, L. A. (2017). The intimate screen: Revisualizing understandings of down syndrome through digital activism on Instagram. In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 225-244)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 5
       wkh: 'Queer &amp;&amp; Feminisms'
