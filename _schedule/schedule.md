@@ -28,8 +28,13 @@ schedule:
       thu:
         - date: 2018-01-25
           desc: 'Language &amp; Material Infrastructure'
-          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193. ', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).', 'Gillespie, T. (2017, August 25). Is “platform” the right metaphor for the technology companies that dominate digital media? </cite>Nieman Lab</cite> [html/text]. Retrieved January 22, 2018, from <a href="http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/" target="_blank">http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/</a>.' ]
-          assign: [ 'Use-annotations in Google Drive' ]
+          readings: [
+            'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193.',
+            'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).',
+            'Gillespie, T. (2017, August 25). Is “platform” the right metaphor for the technology companies that dominate digital media? </cite>Nieman Lab</cite> [html/text]. Retrieved January 22, 2018, from <a href="http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/" target="_blank">http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/</a>.',
+            'Watch the video at Kim, K., Jackson, B., Karamouzas, I., Adeagbo, I., Guy, S. J., Graff, R., and Keefe, D. F. (2015). Bema: A multimodal interface for expert experiential analysis of political assemblies at the pnyx in Ancient Greece. University of Minnesota: Interactive Visualization Lab. Retrieved 22 Jan. 2018 from, <a href="http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php" target="_blank">http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php</a>.'
+            ]
+          assign: [ 'Use-annotations in Google Drive. No need to annotate the video about the Pynx simulation research, but it will help us frame the importance of <i>speaking stones</i>, so to speak.' ]
 
     - num: 3
       wkh: 'Algorithms &amp; Procedures'
