@@ -39,7 +39,7 @@ schedule:
           readings: [
             'Brown, Jr., J. (2015). Processing power: Procedural rhetoric and protocol. Chapter in Ethical programs: Hospitality and the rhetorics of software. Ann Arbor, MI: University of Michigan Press. Available at <a href="http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1" target="_blank">http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1</a>.',
             'Edwards, D. (2017). On circulatory encounters: The case for tactical rhetorics. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/circulatory_encounters" target="_blank">http://enculturation.net/circulatory_encounters</a>.',
-            'Yam, S. (2017). Instagramming the Starbucks <i>bing sutt</i>: Nostalgia memory kitsch and the construction of cosmopolitan consumer subjects. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/instagramming_the_starbucks_bing_sutt" target="_blank">http://enculturation.net/instagramming_the_starbucks_bing_sutt</a>.' ]
+            'Yam, S. (2017). Instagramming the Starbucks <i>Bing Sutt</i>: Nostalgia memory kitsch and the construction of cosmopolitan consumer subjects. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/instagramming_the_starbucks_bing_sutt" target="_blank">http://enculturation.net/instagramming_the_starbucks_bing_sutt</a>.' ]
           assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-01
