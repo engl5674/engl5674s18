@@ -74,14 +74,21 @@ schedule:
       wkh: 'Queer &amp;&amp; Feminisms'
       tue:
         - date: 2018-02-13
-          desc: 'Gender &amp; Programming Values'
-          readings: [ 'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.', 'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.', 'Dadas, C. (2017). Hashtag activism: The promise and risk of “attention.” In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 17-36)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          desc: 'Queer &amp; Feminist Concepts, Bodies, Minds, &amp; Technologies'
+          readings: [
+            'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.',
+            'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.',
+            'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.',
+            'Chapter from yergeau, m. (2018). <cite>Authoring Autism: on rhetoric and neurological queerness</cite>. Durham, NC: Duke UP: Chp. 1, Intervention, pp. 35-88.' ]
+          assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-15
-          desc: 'Queer Concepts, Bodies, Minds, &amp; Technologies'
-          readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.', 'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.', 'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.', 'Chapter in yergeau, m. (2018). <cite>Authoring Autism: on rhetoric and neurological queerness</cite>. Durham, NC: Duke UP: Chp. 1, Intervention, pp. 35-88.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+        desc: 'Gender &amp; Programming Values'
+        readings: [
+          'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.',
+          'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.',
+          'Dadas, C. (2017). Hashtag activism: The promise and risk of “attention.” In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 17-36)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.' ]
+        assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 6
       wkh: 'Rhetorical Activity in the Sciences'
@@ -89,12 +96,12 @@ schedule:
         - date: 2018-02-20
           desc: 'Rhetoric, Science &amp; Technology'
           readings: [ 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.', 'TBA' ]
-          assign: [ 'Use annotation in Google Drive' ]
+          assign: [ 'Use-annotation in Google Drive' ]
       thu:
         - date: 2018-02-22
           desc: 'Simulation Sciences'
           readings: [ 'Chapter from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination: The rhetorical situation of simulations, pp. 1-18</cite>.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 7
       wkh: 'Research Methodologies &amp; Method'
@@ -128,7 +135,10 @@ schedule:
       tue:
         - date: 2018-03-13
           desc: 'Research Problems &amp; Types of Autoethnographies'
-          readings: [ 'Review the Proposal Project page', 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.', 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
+          readings: [
+            'Review the Proposal Project page',
+            'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.',
+            'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
           assign: [ 'Use annotation in Google Drive', 'Complete the set of prompts provided at the end of the chapter.' ]
       thu:
         - date: 2018-03-15
