@@ -36,7 +36,7 @@ See this <a href="https://docs.google.com/document/d/1ebbyN0oJB4BzQDDjCxF32Of7Ro
 ## Logistics
 
 - ~300-400 words, unless otherwise noted.
-- Write 10 total sets of use-annotations.
+- Write 10 total sets of use-annotations: 7 sets prior to Spring Break; then 3 more individual annotations during your individual study.
 - Uses my "brand" of APA in which you cite the page numbers of particular places of the text, while avoiding direct quotation.
 - Due before class in 2 designated Google Drive folders. The first will be shared just before class within our shared Google Drive folder. The second will be shared with me within your personal Drive folder for review purposes. Accordingly, please create the following baseline structure-scheme for this class in your VT Google Drive:
 <pre>
@@ -50,4 +50,4 @@ See this <a href="https://docs.google.com/document/d/1ebbyN0oJB4BzQDDjCxF32Of7Ro
 - Adheres to the format, structure, and citation style noted above. (Page numbers throughout are vital components!)
 - Demonstrates engagement with the arguments and aspects of the text.
 
-You will receive either a Pass or Fail for each annotation. I will provide feedback that helps orient you to what issues need to be addressed, if necessary.
+You will receive either a Pass or Fail for each annotation set. A set encompasses the total annotations for that particular week. I will provide feedback that helps orient you to what issues need to be addressed, if necessary.
