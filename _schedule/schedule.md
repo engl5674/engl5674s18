@@ -108,12 +108,7 @@ schedule:
       tue:
         - date: 2018-02-27
           desc: 'Critical Approaches to Studying a Digital Infrastructure'
-          readings: [
-            'Proposal project page.',
-            'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.',
-            'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.',
-            'Chps. 1 &amp; 2 in Spinuzzi, C. (2003). <cite>Tracing genres through organizations: A sociocultural approach to information design</cite>. Cambridge, MA: MIT Press.',
-            'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
+          readings: [ 'Proposal project page.', 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Chps. 1 &amp; 2 in Spinuzzi, C. (2003). <cite>Tracing genres through organizations: A sociocultural approach to information design</cite>. Cambridge, MA: MIT Press.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
           assign: [ 'More readings this time around, so you can limit the lengths at which you summarize from each scholar. I may provide a prompt for this particular set of  use-annotations.' ]
       thu:
         - date: 2018-03-01
