@@ -87,12 +87,12 @@ schedule:
       tue:
         - date: 2018-02-20
           desc: 'Rhetoric, Science &amp; Technology'
-          readings: [ 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.', 'TBA' ]
+          readings: [ 'Pender, K. (2008). Negation and the contradictory technics of rhetoric. <cite>Rhetoric Society Quarterly</cite>, 38(1), pp. 2-24', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
           assign: [ 'Use-annotation in Google Drive' ]
       thu:
         - date: 2018-02-22
-          desc: 'Simulation Sciences'
-          readings: [ 'Chapter from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination: The rhetorical situation of simulations, pp. 1-18</cite>.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
+          desc: 'Visuals, Language, and Simulations in the Sciences'
+          readings: [ 'Chapters 1-2 (pp. 1-18), &amp; 4 (pp. 39-66) from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination</cite>. New York, NY: Lexington Books.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
           assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 7
