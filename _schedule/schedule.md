@@ -28,12 +28,7 @@ schedule:
       thu:
         - date: 2018-01-25
           desc: 'Language &amp; Material Infrastructure'
-          readings: [
-            'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193.',
-            'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).',
-            'Gillespie, T. (2017, August 25). Is “platform” the right metaphor for the technology companies that dominate digital media? </cite>Nieman Lab</cite> [html/text]. Retrieved January 22, 2018, from <a href="http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/" target="_blank">http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/</a>.',
-            'Watch the video at Kim, K., Jackson, B., Karamouzas, I., Adeagbo, I., Guy, S. J., Graff, R., and Keefe, D. F. (2015). Bema: A multimodal interface for expert experiential analysis of political assemblies at the pnyx in Ancient Greece. University of Minnesota: Interactive Visualization Lab. Retrieved 22 Jan. 2018 from, <a href="http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php" target="_blank">http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php</a>.'
-            ]
+          readings: [ 'Lamp, K. (2011). ‘A city of brick’: Visual rhetoric in Roman rhetorical theory and practice. Philosophy and Rhetoric, 44, pp. 171-193.', 'Mattern, S. (2017). Code + clay … Data + dirt: Five-thousand years of urban media. Minneapolis, MN: University of Minnesota Press, Chp. 4, Speaking stones, (pp. 114-135).', 'Gillespie, T. (2017, August 25). Is “platform” the right metaphor for the technology companies that dominate digital media? </cite>Nieman Lab</cite>. Retrieved January 22, 2018, from <a href="http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/" target="_blank">http://www.niemanlab.org/2017/08/is-platform-the-right-metaphor-for-the-technology-companies-that-dominate-digital-media/</a>.', 'Watch the video at Kim, K., Jackson, B., Karamouzas, I., Adeagbo, I., Guy, S. J., Graff, R., and Keefe, D. F. (2015). Bema: A multimodal interface for expert experiential analysis of political assemblies at the pnyx in Ancient Greece. University of Minnesota: Interactive Visualization Lab. Retrieved 22 Jan. 2018 from, <a href="http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php" target="_blank">http://ivlab.cs.umn.edu/generated/pub-Kim-2015-Bema.php</a>.' ]
           assign: [ 'Use-annotations in Google Drive. No need to annotate the video about the Pynx simulation research, but it will help us frame the importance of <i>speaking stones</i>, so to speak.' ]
 
     - num: 3
@@ -41,10 +36,7 @@ schedule:
       tue:
         - date: 2018-01-30
           desc: 'Hospitality, Circulation, &amp; Place'
-          readings: [
-            'Brown, Jr., J. (2015). Processing power: Procedural rhetoric and protocol. Chapter in Ethical programs: Hospitality and the rhetorics of software. Ann Arbor, MI: University of Michigan Press. Available at <a href="http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1" target="_blank">http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1</a>.',
-            'Edwards, D. (2017). On circulatory encounters: The case for tactical rhetorics. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/circulatory_encounters" target="_blank">http://enculturation.net/circulatory_encounters</a>.',
-            'Yam, S. (2017). Instagramming the Starbucks <i>Bing Sutt</i>: Nostalgia memory kitsch and the construction of cosmopolitan consumer subjects. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/instagramming_the_starbucks_bing_sutt" target="_blank">http://enculturation.net/instagramming_the_starbucks_bing_sutt</a>.' ]
+          readings: [ 'Brown, Jr., J. (2015). Processing power: Procedural rhetoric and protocol. Chapter in Ethical programs: Hospitality and the rhetorics of software. Ann Arbor, MI: University of Michigan Press. Available at <a href="http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1" target="_blank">http://quod.lib.umich.edu/d/dh/13474172.0001.001/1:6/--ethical-programs-hospitality-and-the-rhetorics-of-software?g=dculture;rgn=div1;view=fulltext;xc=1</a>.', 'Edwards, D. (2017). On circulatory encounters: The case for tactical rhetorics. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/circulatory_encounters" target="_blank">http://enculturation.net/circulatory_encounters</a>.', 'Yam, S. (2017). Instagramming the Starbucks <i>Bing Sutt</i>: Nostalgia memory kitsch and the construction of cosmopolitan consumer subjects. <cite>Enculturation</cite>, Issue 25. Retrieved 11 Dec. 2017 from <a href="http://enculturation.net/instagramming_the_starbucks_bing_sutt" target="_blank">http://enculturation.net/instagramming_the_starbucks_bing_sutt</a>.' ]
           assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-01
@@ -83,12 +75,12 @@ schedule:
           assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-15
-        desc: 'Gender &amp; Programming Values'
-        readings: [
-          'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.',
-          'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.',
-          'Dadas, C. (2017). Hashtag activism: The promise and risk of “attention.” In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 17-36)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.' ]
-        assign: [ 'Use-annotations in Google Drive' ]
+          desc: 'Gender &amp; Programming Values'
+          readings: [
+            'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.',
+            'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.',
+            'Dadas, C. (2017). Hashtag activism: The promise and risk of “attention.” In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 17-36)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 6
       wkh: 'Rhetorical Activity in the Sciences'
