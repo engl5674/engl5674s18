@@ -88,7 +88,7 @@ schedule:
         - date: 2018-02-20
           desc: 'Rhetoric, Science &amp; Technology'
           readings: [ 'Pender, K. (2008). Negation and the contradictory technics of rhetoric. <cite>Rhetoric Society Quarterly</cite>, 38(1), pp. 2-24', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
-          assign: [ 'Use-annotation in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-22
           desc: 'Visuals, Language, and Simulations in the Sciences'
@@ -106,7 +106,7 @@ schedule:
         - date: 2018-03-01
           desc: 'Autoethnography + Field Data'
           readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.', 'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
-          assign: [ 'Use annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 8
       wkh: 'Spring Break'
