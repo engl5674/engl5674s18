@@ -87,7 +87,7 @@ schedule:
       tue:
         - date: 2018-02-20
           desc: 'Rhetoric, Science &amp; Technology'
-          readings: [ 'Hartzog, M. (2017). Inventing mosquitoes: Tracing the topology of vectors for disease. In C. Boyle &amp; ', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
+          readings: [ 'Hartzog, M. (2017). Inventing mosquitoes: Tracing the topology of vectors for disease. In C. Boyle &amp; L. Walsh, (Eds.), <cite>Topologies as Techniques for a Post-Critical Rhetoric, (pp. 75-98)</cite>. Cham, Switzerland: Palgrave Macmillan.', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
           assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-22
