@@ -87,7 +87,7 @@ schedule:
       tue:
         - date: 2018-02-20
           desc: 'Rhetoric, Science &amp; Technology'
-          readings: [ 'Pender, K. (2008). Negation and the contradictory technics of rhetoric. <cite>Rhetoric Society Quarterly</cite>, 38(1), pp. 2-24', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
+          readings: [ 'Hartzog, M. (2017). Inventing mosquitoes: Tracing the topology of vectors for disease. In C. Boyle &amp; ', 'Star, S. L. (1990). Power, technology and the phenomenology of conventions: On being allergic to onions. <cite>The Sociological Review, 38</cite>(1), 26–56.' ]
           assign: [ 'Use-annotations in Google Drive' ]
       thu:
         - date: 2018-02-22
