@@ -68,7 +68,7 @@ schedule:
         - date: 2018-02-13
           desc: 'Queer &amp; Feminist Concepts, Bodies, Minds, &amp; Technologies'
           readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. <cite>AI & Society, 28</cite>, pp. 559–566.',
-            'Keyword articles from inaugural issues of <cite>Transgender Studies Quarterly, 1</cite>(1-2): Bio/Logics, pp. 33-35; Biometrics, pp. 35-38; Biopolitics, pp. 38-42; Microaggressions, pp. 129-134; Performativity, pp. 148-150. <em>Note: I included the entire 2 issues in the Google Drive folder, because it is just so wonderful to have on hand.',
+            'Keyword articles from inaugural issues of <cite>Transgender Studies Quarterly, 1</cite>(1-2): Bio/Logics, pp. 33-35; Biometrics, pp. 35-38; Biopolitics, pp. 38-42; Microaggressions, pp. 129-134; Performativity, pp. 148-150. <em>Note: I included the entire 2 issues in the Google Drive folder, because it is just so wonderful to have on hand.</em>',
             'Chapter from yergeau, m. (2018). <cite>Authoring Autism: on rhetoric and neurological queerness</cite>. Durham, NC: Duke UP: Chp. 1, Intervention, pp. 35-88.' ]
           assign: [ 'Use-annotations in Google Drive: Choose at least 2 keywords to summarize from TSQ.' ]
       thu:
