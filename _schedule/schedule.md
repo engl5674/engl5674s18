@@ -67,20 +67,18 @@ schedule:
       tue:
         - date: 2018-02-13
           desc: 'Queer &amp; Feminist Concepts, Bodies, Minds, &amp; Technologies'
-          readings: [
-            'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. AI & Society, 28, pp. 559–566.',
-            'Gerdes, K. (2014). Performativity. Transgender Studies Quarterly, 1(1-2), pp. 148-150.',
-            'Nordmarken, S. (2014). Microaggressions. Transgender Studies Quarterly, 1(1-2), pp. 129-134.',
+          readings: [ 'Blas, Z. and Cárdenas, M. (2013). Imaginary computational systems: queer technologies and transreal aesthetics. <cite>AI & Society, 28</cite>, pp. 559–566.',
+            'Keyword articles from inaugural issues of <cite>Transgender Studies Quarterly, 1</cite>(1-2): Bio/Logics, pp. 33-35; Biometrics, pp. 35-38; Biopolitics, pp. 38-42; Microaggressions, pp. 129-134; Performativity, pp. 148-150. <em>Note: I included the entire 2 issues in the Google Drive folder, because it is just so wonderful to have on hand.',
             'Chapter from yergeau, m. (2018). <cite>Authoring Autism: on rhetoric and neurological queerness</cite>. Durham, NC: Duke UP: Chp. 1, Intervention, pp. 35-88.' ]
-          assign: [ 'Use-annotations in Google Drive' ]
+          assign: [ 'Use-annotations in Google Drive: Choose at least 2 keywords to summarize from TSQ.' ]
       thu:
         - date: 2018-02-15
-          desc: 'Embodied practices + Gender &amp; Programming Values'
+          desc: 'Rhetoric and embodied practices + Gender &amp; Programming Values'
           readings: [
             'Chapters from Hawhee, D. (2018). <cite>Bodily arts: Rhetoric and athletics in ancient Greece</cite>. Austin, TX: University of Texas Press. Introduction, pp. 15-22; Chapter 3 - Kairotic bodies, pp. 65-85.',
             'Dadas, C. (2017). Hashtag activism: The promise and risk of “attention.” In D. M. Walls &amp; S. Vie, (Eds.) <cite>Social Writing/Social Media: Publics, Presentations, and Pedagogies (pp. 17-36)</cite>. Perspectives on Writing. Fort Collins, CO: The WAC Clearinghouse and UP of Colorado. Retrieved Jan. 6, 2018 from https://wac.colostate.edu/books/social/.',
             'Bivens, R. (27 Jan. 2016). Programming violence under a progressive surface: Facebook&#39;s software misgenders users. The Society Pages. Retrieved 06 Feb. 2016 from <a href="https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/" target="_blank">https://thesocietypages.org/cyborgology/2016/01/27/programming-violence-under-a-progressive-surface-facebooks-software-misgenders-users/</a>.',
-            'wilkie &amp; Beida, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="http://www.wilkie.how/posts/reuleaux-selectors" target="_blank">http://www.wilkie.how/posts/reuleaux-selectors</a>.' ]
+            'wilkie &amp; Bieda, L. (2012). Reuleaux selectors. wilkie writes a thing [personal blog]. Retrieved 06 Feb. 2016 from <a href="https://wilkie.how/posts/reuleaux-selectors" target="_blank">https://wilkie.how/posts/reuleaux-selectors</a>. (PDF also available on Drive.)' ]
           assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 6
