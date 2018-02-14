@@ -91,7 +91,7 @@ schedule:
       thu:
         - date: 2018-02-22
           desc: 'Visuals, Language, and Simulations in the Sciences'
-          readings: [ 'Chapters 1-2 (pp. 1-18), &amp; 4 (pp. 39-66) from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination</cite>. New York, NY: Lexington Books.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
+          readings: [ 'Proposal project page.', 'Chapters 1-2 (pp. 1-18), &amp; 4 (pp. 39-66) from Roundtree, A. K. (2013). <cite>Computer simulation, rhetoric, and the scientific imagination</cite>. New York, NY: Lexington Books.', 'Wickman, C. (2013). Observing inscriptions at work: Visualization and text production in experimental physics research. <cite>Technical Communication Quarterly, 22</cite>, pp. 150-171.' ]
           assign: [ 'Use-annotations in Google Drive' ]
 
     - num: 7
@@ -99,13 +99,15 @@ schedule:
       tue:
         - date: 2018-02-27
           desc: 'Critical Approaches to Studying a Digital Infrastructure'
-          readings: [ 'Proposal project page.', 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-110). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', 'Chps. 1 &amp; 2 in Spinuzzi, C. (2003). <cite>Tracing genres through organizations: A sociocultural approach to information design</cite>. Cambridge, MA: MIT Press.', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.' ]
-          assign: [ 'More readings this time around, so you can limit the lengths at which you summarize from each scholar. I may provide a prompt for this particular set of  use-annotations.' ]
+          readings: [ 'Sano-Franchini, J. (2017). Feminist rhetorics and interaction design: Facilitating socially responsible design. L. Potts and M. Salvo, (Eds.), In Rhetoric and Experience Architecture (pp. 84-89). Anderson, SC: Parlor Press.', 'Seaver, N. (2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. Big Data & Society, 4(2), pp. 1-12.', '<del>Chps. 1 &amp; 2 in Spinuzzi, C. (2003). <cite>Tracing genres through organizations: A sociocultural approach to information design</cite>. Cambridge, MA: MIT Press.</del>', 'Star, S. L. (1999). The ethnography of infrastructure. American Behavioral Scientist, 43(3), pp. 377-391.', 'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.' ]
+          assign: [ 'Instead of the usual use-annotations, you will reflect on these 3 scholarly calls to study technological systems through the prompts provided at the end of Takayoshi <i>et al</i>. In addition to the research problem itself, what type of contexts will you reflect on and/or observe over time? What kinds of data might help you refine this research problem?' ]
+          other: [ 'Announcement to come, regarding classtime, since I will be away at a conference.' ]
+
       thu:
         - date: 2018-03-01
           desc: 'Autoethnography + Field Data'
-          readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.', 'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
-          assign: [ 'Use-annotations in Google Drive' ]
+          readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
+          assign: [ 'Instead of the use-annotation, please revise your earlier ideas in lieu of the new readings about autoethnographies and the feedback that you received on Tuesday. Respond to the following prompts: 1) What type of autoethnography you will conduct and write up; 2) How and why that type will serve your research problem best; 3) What concepts you will synthesize to help you refine your problem and guide your data collection, production, and analysis; and 4) Discuss what data you will indeed collect/produce. With each of these prompts, go back to our readings and make your case by drawing on past scholars to back up your decisions.' ]
 
     - num: 8
       wkh: 'Spring Break'
@@ -120,11 +122,10 @@ schedule:
       wkh: 'Inventing Our Projects'
       tue:
         - date: 2018-03-13
-          desc: 'Research Problems &amp; Types of Autoethnographies'
+          desc: 'On writing fieldnotes'
           readings: [
-            'Review the Proposal Project page',
-            'Takayoshi, P., Tomlinson, E., and Castillo, J. (2010). The construction of research problems and methods. In K. Powell and P. Takayoshi, (Eds.), Practicing Research in Writing Studies (pp. 97-121). New York, NY: Hampton Press.',
-            'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
+            'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.',
+            'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
           assign: [ 'Use annotation in Google Drive', 'Complete the set of prompts provided at the end of the chapter.' ]
       thu:
         - date: 2018-03-15
