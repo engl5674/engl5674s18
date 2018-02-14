@@ -105,9 +105,9 @@ schedule:
 
       thu:
         - date: 2018-03-01
-          desc: 'Autoethnography + Field Data'
+          desc: 'Types of Autoethnographies'
           readings: [ 'Ellis, C., Adams, T.E., & A.P. Bochner. (2011). Autoethnography: An overview. Forum: Qualitative Social Research, 12(1). Retrieved 14 Jan. 2016 from <a href="http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095" target="_blank">http://www.qualitative-research.net/index.php/fqs/article/view/1589/3095</a>.', 'Pace, S. (Apr. 2012). Writing the self into research: Using grounded theory analytic strategies in autoethnography. TEXT, 16(1). Retrieved 14 Jan. 2016 from <a href="http://www.textjournal.com.au/speciss/issue13/Pace.pdf" target="_blank">http://www.textjournal.com.au/speciss/issue13/Pace.pdf</a>.' ]
-          assign: [ 'Instead of the use-annotation, please revise your earlier ideas in lieu of the new readings about autoethnographies and the feedback that you received on Tuesday. Respond to the following prompts: 1) What type of autoethnography you will conduct and write up; 2) How and why that type will serve your research problem best; 3) What concepts you will synthesize to help you refine your problem and guide your data collection, production, and analysis; and 4) Discuss what data you will indeed collect/produce. With each of these prompts, go back to our readings and make your case by drawing on past scholars to back up your decisions.' ]
+          assign: [ 'Instead of the use-annotation, please revise your earlier ideas in lieu of the new readings about autoethnographies and the feedback that you received on Tuesday. Respond to the following prompts: <ol><li>What type of autoethnography you will conduct and write up;</li><li>How and why that type will serve your research problem best;</li><li>What concepts you will synthesize to help you refine your problem and guide your data collection, production, and analysis; and</li><li>Discuss what data you will indeed collect/produce.</li></ol> With each of these prompts, go back to our readings and make your case by drawing on past scholars to back up your decisions.' ]
 
     - num: 8
       wkh: 'Spring Break'
