@@ -126,7 +126,7 @@ schedule:
           readings: [
             'Wolfinger, N. H. (2002). On writing fieldnotes: Collection strategies and background expectancies. Qualitative Research, 2(1), pp. 85-93.',
             'Sanjek, R. (Apr. 2012). A vocabulary for fieldnotes. In R. Sanjek (Ed.), Fieldnotes: The makings of anthropology (pp. 92-121). Ithaca, NY: Cornell University Press.' ]
-          assign: [ 'Use annotation in Google Drive', 'Complete the set of prompts provided at the end of the chapter.' ]
+          assign: [ 'Use-annotations in Google Drive. Use these annotations as a means to critically consider what kinds of fieldnotes you will write up and what they might be about. Of course, back up your choices with specific ideas/claims made by Sanjek and Wolfinger as a means to develop content for you proposal due on Thursday.' ]
       thu:
         - date: 2018-03-15
           desc: 'TBA'
