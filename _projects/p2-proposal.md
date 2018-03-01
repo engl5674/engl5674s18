@@ -10,7 +10,7 @@ imgurl: /images/*.png
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 02/20 &ndash; 03/15</li>
+    <b>Due</b>: 02/20 &ndash; 03/15</li>
 </ul>
 
 ## Description
