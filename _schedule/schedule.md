@@ -159,7 +159,7 @@ schedule:
         - date: 2018-03-29
           desc: 'Fieldnote Work'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your re-readings of prior work from the course, articulating 1) how you are putting it into scholary action, and 2) what implications you think this has for understanding rhetoric. I'd like each of you to use Google Slides to facilitate a quick rendering of the 2 aforementioned subjects, 1 slide per prompt. It is a challenge, because you have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your re-readings of prior work from the course, articulating 1) how you are putting it into scholary action, and 2) what implications you think this has for understanding rhetoric. I would like each of you to use Google Slides to facilitate a quick rendering of the 2 aforementioned subjects, 1 slide per prompt. It is a challenge, because you have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction.' ]
 
     - num: 12
       wkh: 'Historicizing &amp; Artifacts'
