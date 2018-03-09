@@ -160,6 +160,76 @@ schedule:
           desc: 'Fieldnote Work'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your re-readings of prior work from the course, articulating 1) how you are putting it into scholary action, and 2) what implications you think this has for understanding rhetoric. I'd like each of you to use Google Slides to facilitate a quick rendering of the 2 aforementioned subjects, 1 slide per prompt. It is a challenge, because you have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction.' ]
+
+    - num: 12
+      wkh: 'Historicizing &amp; Artifacts'
+      tue:
+        - date: 2018-04-03
+          desc: 'How to historicize the rhetorically mediated experiences in question'
+          readings: [
+            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+          assign: [
+            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+      thu:
+        - date: 2018-04-05
+          desc: 'Historicizing work, continued'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+
+    - num: 13
+      wkh: 'Progress Reports'
+      tue:
+        - date: 2018-04-10
+          desc: 'Progress Presentations -- Day 1'
+          readings: [
+            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+          assign: [
+            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+      thu:
+        - date: 2018-04-12
+          desc: 'Progress Presentations -- Day 2'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+
+    - num: 14
+      wkh: 'Insight Mapping &amp; Autoethnography Examples'
+      tue:
+        - date: 2018-04-17
+          desc: 'Mapping Insights'
+          readings: [
+            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+          assign: [
+            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+      thu:
+        - date: 2018-04-19
+          desc: 'Learning from AE examples: On writing up your work'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+
+    - num: 15
+      wkh: 'Draft Workshops'
+      tue:
+        - date: 2018-04-24
+          desc: 'Workshop on Introduction + Methodology'
+          readings: [
+            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+          assign: [
+            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+      thu:
+        - date: 2018-04-26
+          desc: 'Workshop on Findings/Analysis'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+
+    - num: 16
+      wkh: 'Concluding Thoughts &amp; Trajectories'
+      tue:
+        - date: 2018-05-01
+          desc: 'Concluding Activity: Networked Trajectories'
+          readings: [
+            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+          assign: [
+            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
 ---
 
 - num: 2
