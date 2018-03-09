@@ -129,9 +129,23 @@ schedule:
           assign: [ 'Use-annotations in Google Drive. Use these annotations as a means to critically consider what kinds of fieldnotes you will write up and what they might be about. Of course, back up your choices with specific ideas/claims made by Sanjek and Wolfinger as a means to develop content for you proposal due on Thursday.' ]
       thu:
         - date: 2018-03-15
-          desc: 'TBA'
-          readings: [ 'TBA' ]
-          assign: [ 'Proposal due in Google Drive' ]
+          desc: 'Proposals Due + Doc Reviews'
+          readings: [ 'None.' ]
+          assign: [ 'Proposal due in Google Drive. Please share the full version in the class folder. Additionally, provide 2 comments that solicit guided feedback for all of us to consider in class. We will use the comments features to supply suggestions.' ]
+
+    - num: 10
+      wkh: 'Refining Methodologies'
+      tue:
+        - date: 2018-03-20
+          desc: 'Methodology-Making'
+          readings: [
+            'Two articles/chapters that pertain to the construction of your methodology, or specific scholarship with which your work converses.' ]
+          assign: [ 'Use-annotations in Google Drive. If the scholarship helps with your epistemology, your use-annotation should reflect that goal. If the scholarship helps you with narrowing your conversation, try to explain why you think that is the case. Both will provide you with the means to examine your own tacit assumptions about their work and your own analysis.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+      thu:
+        - date: 2018-03-22
+          desc: 'Fieldnote Work'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote analysis day. To facilitate the process, I want you to provide a <em>methodological guide</em> for your peers. Accordingly, prepare a short document that articulates your research problem, questions, and a 4-5 sentence blurb about your methodology. In other words, those 4-5 sentences exlpain how and why you know what to write about in your fieldnotes, and by what epistemology guides your interpretation of such fieldnotes. In so doing, it should prove interesting to garner other readings of your fieldnotes.' ]
 ---
 
 - num: 2
