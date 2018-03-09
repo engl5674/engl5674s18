@@ -146,6 +146,20 @@ schedule:
           desc: 'Fieldnote Work'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote analysis day. To facilitate the process, I want you to provide a <em>methodological guide</em> for your peers. Accordingly, prepare a short document that articulates your research problem, questions, and a 4-5 sentence blurb about your methodology. In other words, those 4-5 sentences exlpain how and why you know what to write about in your fieldnotes, and by what epistemology guides your interpretation of such fieldnotes. In so doing, it should prove interesting to garner other readings of your fieldnotes.' ]
+
+    - num: 11
+      wkh: 'Refining Methodologies, continued'
+      tue:
+        - date: 2018-03-27
+          desc: 'Upon Reflection: Revisiting Prior Works'
+          readings: [
+            'Reread 1-2 pieces central to your methodology. Specifically the readings from the first phase of the course.' ]
+          assign: [ 'For this last use-annotation, please rewrite you summary without relying on your old summary. Write your summary paragraph knowing exactly which aspects of the piece are most integral to your project. Then, in the second paragraph, provide a more detailed explanation about how this work has already proven important for understanding how to make choices about what artifacts to collect/create + how to understand them as part of rhetorical activity.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+      thu:
+        - date: 2018-03-29
+          desc: 'Fieldnote Work'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, each of you will present your re-readings of prior work from the course, articulating how you are putting it into scholary action and what implications you think this has for understanding rhetoric. Peers, be prepared to ask questions and provide generous support and feedback about their aims and direction.' ]
 ---
 
 - num: 2
