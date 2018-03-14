@@ -192,14 +192,15 @@ schedule:
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
 
     - num: 14
-      wkh: 'Insight Mapping &amp; Autoethnography Examples'
+      wkh: 'Dr. Mucklebauer Visit &amp; Autoethnography Examples'
       tue:
         - date: 2018-04-17
-          desc: 'Mapping Insights'
+          desc: 'Special Guest: Dr. Mucklebauer'
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+          other: [ 'I will consider ways for us to take advantage of this special opportunity. Perhaps we can ask Mucklebauer how he develops his own research problems and agendas.' ]
       thu:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
