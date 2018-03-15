@@ -140,7 +140,7 @@ schedule:
           desc: 'Methodology-Making'
           readings: [
             'Two articles/chapters that pertain to the construction of your methodology, or specific scholarship with which your work converses.' ]
-          assign: [ 'Use-annotations in Google Drive. If the scholarship helps with your epistemology, your use-annotation should reflect that goal. If the scholarship helps you with narrowing your conversation, try to explain why you think that is the case. Both will provide you with the means to examine your own tacit assumptions about their work and your own analysis.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+          assign: [ 'Use-annotations in Google Drive. If the scholarship helps with your epistemology, your use-annotation should reflect that goal. If the scholarship helps you with narrowing your conversation, try to explain why you think that is the case. Both will provide you with the means to examine your own tacit assumptions about their work and your own analysis.', 'At least 2 fieldnotes + at least 1-2 memos.', 'Prepare a map, diagram, rendered visual of some sort that will help you explain to the class: 1) what your methodology includes so far, 2) what you think it helps you decide to look at and why, and 3) what rhetorical relationship you think this methodology will help you theorize // narrate. We will need to do this in quick fashion, so be sure to prepare for about 5-7 minutes.' ]
       thu:
         - date: 2018-03-22
           desc: 'Fieldnote Work'
