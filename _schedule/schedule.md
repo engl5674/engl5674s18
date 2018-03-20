@@ -143,18 +143,20 @@ schedule:
           assign: [ 'Use-annotations in Google Drive. If the scholarship helps with your epistemology, your use-annotation should reflect that goal. If the scholarship helps you with narrowing your conversation, try to explain why you think that is the case. Both will provide you with the means to examine your own tacit assumptions about their work and your own analysis.', 'At least 2 fieldnotes + at least 1-2 memos.', 'Prepare a map, diagram, rendered visual of some sort that will help you explain to the class: 1) what your methodology includes so far, 2) what you think it helps you decide to look at and why, and 3) what rhetorical relationship you think this methodology will help you theorize // narrate. We will need to do this in quick fashion, so be sure to prepare for about 5-7 minutes.' ]
       thu:
         - date: 2018-03-22
-          desc: 'Fieldnote Work'
-          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote analysis day. To facilitate the process, I want you to provide a <em>methodological guide</em> for your peers. Accordingly, prepare a short document that articulates your research problem, questions, and a 4-5 sentence blurb about your methodology. In other words, those 4-5 sentences exlpain how and why you know what to write about in your fieldnotes, and by what epistemology guides your interpretation of such fieldnotes. In so doing, it should prove interesting to garner other readings of your fieldnotes.' ]
+          desc: 'Upon Reflection: Revisiting Prior Works'
+          readings: [
+            'Reread 1-2 pieces central to your methodology. Specifically the readings from the first phase of the course.', 'Excerpt on heuristics (pp. 119-130) from Young, Becker, &amp; Pike. (1970). <cite>Rhetoric: Discovery and Change</cite>.' ]
+          assign: [ 'For this last use-annotation, please rewrite you summary without relying on your old summary. Write your summary paragraph knowing exactly which aspects of the piece are most integral to your project. Then, in the second paragraph, provide a more detailed explanation about how this work has already proven important for understanding how to make choices about what artifacts to collect/create + how to understand them as part of rhetorical activity.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+          other: [ 'In class, we will review a particular playful method of <a href="https://docs.google.com/presentation/d/1Rj7GaQ9vCCNGg0shUBMOjRepgR6kmvJygoK3ddQVPN0/edit?usp=sharing" target="_blank">self-interviewing</a>. We will also discuss the Young, Becker, and Pike reading and how I would like us to apply it for next Tuesday.' ]
 
     - num: 11
       wkh: 'Refining Methodologies, continued'
       tue:
         - date: 2018-03-27
-          desc: 'Upon Reflection: Revisiting Prior Works'
-          readings: [
-            'Reread 1-2 pieces central to your methodology. Specifically the readings from the first phase of the course.' ]
-          assign: [ 'For this last use-annotation, please rewrite you summary without relying on your old summary. Write your summary paragraph knowing exactly which aspects of the piece are most integral to your project. Then, in the second paragraph, provide a more detailed explanation about how this work has already proven important for understanding how to make choices about what artifacts to collect/create + how to understand them as part of rhetorical activity.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+          desc: 'Applying your methodologies: Heuristics and Fieldnote Work'
+          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          assign: [ 'Complete your AE interview, at least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote/interview analysis day. To facilitate the process, I want you to create a heuristic, or <em>methodological guide</em>, for your peers. Accordingly, prepare a short document that articulates your research problem, questions, and a 4-5 sentence blurb about your methodology. In other words, those 4-5 sentences explain how and why you know what to write about in your fieldnotes, and by what epistemology guides your interpretation of such fieldnotes. In so doing, it should prove interesting to garner other readings of your fieldnotes.' ]
+
       thu:
         - date: 2018-03-29
           desc: 'Fieldnote Work'
@@ -167,7 +169,7 @@ schedule:
         - date: 2018-04-03
           desc: 'How to historicize the rhetorically mediated experiences in question'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+            'As needed: artifacts, fieldwork, etc.', 'Haas, C. (1996). Chapter 8, "Historicizing technology," in <cite>Writing technology: Studies on the materiality of literacy</cite> (pp. 205-223). New York, NY: Routledge.', ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
       thu:
