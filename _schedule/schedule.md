@@ -146,7 +146,7 @@ schedule:
           desc: 'Upon Reflection: Revisiting Prior Works'
           readings: [
             'Reread 1-2 pieces central to your methodology. Specifically the readings from the first phase of the course.', 'Excerpt on heuristics (pp. 119-130) from Young, Becker, &amp; Pike. (1970). <cite>Rhetoric: Discovery and Change</cite>.' ]
-          assign: [ 'For this last use-annotation, please rewrite you summary without relying on your old summary. Write your summary paragraph knowing exactly which aspects of the piece are most integral to your project. Then, in the second paragraph, provide a more detailed explanation about how this work has already proven important for understanding how to make choices about what artifacts to collect/create + how to understand them as part of rhetorical activity.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
+          assign: [ 'For this last use-annotation, please write a new summary of these works without relying on your old summary. Write your summary paragraph knowing exactly which aspects of the piece are most integral to your project. Then, in the second paragraph, provide a more detailed explanation about how this work has already proven important for understanding how to make choices about what artifacts to collect/create + how to understand them as part of rhetorical activity.', 'At least 2 fieldnotes + at least 1-2 memos.' ]
           other: [ 'In class, we will review a particular playful method of <a href="https://docs.google.com/presentation/d/1Rj7GaQ9vCCNGg0shUBMOjRepgR6kmvJygoK3ddQVPN0/edit?usp=sharing" target="_blank">self-interviewing</a>. We will also discuss the Young, Becker, and Pike reading and how I would like us to apply it for next Tuesday.' ]
 
     - num: 11
