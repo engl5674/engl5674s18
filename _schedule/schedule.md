@@ -155,7 +155,7 @@ schedule:
         - date: 2018-03-27
           desc: 'Applying your methodologies: Heuristics and Fieldnote Work'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'Complete your AE interview, at least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote/interview analysis day. To facilitate the process, I want you to create a heuristic, or <em>methodological guide</em>, for your peers. Accordingly, prepare a short document that articulates your research problem, questions, and a 4-5 sentence blurb about your methodology. In other words, those 4-5 sentences explain how and why you know what to write about in your fieldnotes, and by what epistemology guides your interpretation of such fieldnotes. In so doing, it should prove interesting to garner other readings of your fieldnotes.' ]
+          assign: [ 'Complete your AE interview, at least 2 fieldnotes + at least 1-2 memos.', 'In class, we will coordinate a fieldnote/interview analysis day. To facilitate the process, I want you to take your experience using the matrix from YBP and create your own heuristic, or <em>methodological guide</em>, for your peers to use on a set of artifacts that you bring in for their review. Accordingly, prepare a short handoout that 1) Articulates the unit of experience that seems to be at the core of your research problem; 2) Your rhetorical research problem linked to that unit; and 3) A synopsis of what artifacts you brought and why. Then, create your own heuristic as derived from your own theoretical foundations as a matrix for your peers to use as they analyze the artifacts.' ]
 
       thu:
         - date: 2018-03-29
