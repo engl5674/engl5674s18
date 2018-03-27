@@ -160,8 +160,8 @@ schedule:
       thu:
         - date: 2018-03-29
           desc: 'Fieldnote Work'
-          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your re-readings of prior work from the course, articulating 1) how you are putting it into scholary action, and 2) what implications you think this has for understanding rhetoric. I would like each of you to use Google Slides to facilitate a quick rendering of the 2 aforementioned subjects, 1 slide per prompt. It is a challenge, because you have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction.' ]
+          readings: [ 'As needed project readings.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your research problem &amp; question(s), methodology, and current sense of rhetorical activity within this problem space. Here is the really difficult part: You must create 1 slide per prompt:<br><ol><li>What is your research problem, unit, and question(s),</li><li>What is your rhetorical methodology?, and</li><li>How do you (currently) see rhetoric operating within this problem?</li></ol><br>You each have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Your task is to provide a very broad, aggregate view. Let us ask you to fill in some of the gaps during the Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction. Please submit your slides to me before class by using the Email Collaborators, so I can copy-paste them into a Google Slides template for us to use in class.' ]
 
     - num: 12
       wkh: 'Historicizing &amp; Artifacts'
@@ -169,13 +169,13 @@ schedule:
         - date: 2018-04-03
           desc: 'How to historicize the rhetorically mediated experiences in question'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'Haas, C. (1996). Chapter 8, "Historicizing technology," in <cite>Writing technology: Studies on the materiality of literacy</cite> (pp. 205-223). New York, NY: Routledge.', ]
+            'As needed project research.', 'Haas, C. (1996). Chapter 8, "Historicizing technology," in <cite>Writing technology: Studies on the materiality of literacy</cite> (pp. 205-223). New York, NY: Routledge.', ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
       thu:
         - date: 2018-04-05
           desc: 'Historicizing work, continued'
-          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
+          readings: [ 'As needed.' ]
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
 
     - num: 13
@@ -184,7 +184,7 @@ schedule:
         - date: 2018-04-10
           desc: 'Progress Presentations -- Day 1'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+            'As needed.', 'TBA' ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
       thu:
