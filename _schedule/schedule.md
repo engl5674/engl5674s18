@@ -159,7 +159,7 @@ schedule:
 
       thu:
         - date: 2018-03-29
-          desc: 'Fieldnote Work'
+          desc: '(More) Research Articulation Work'
           readings: [ 'As needed project readings.' ]
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'In class, we will conduct lightning review rounds. Accordingly, each of you will present your research problem &amp; question(s), methodology, and current sense of rhetorical activity within this problem space. Here is the really difficult part: You must create 1 slide per prompt:<br><ol><li>What is your research problem, unit, and question(s),</li><li>What is your rhetorical methodology?, and</li><li>How do you (currently) see rhetoric operating within this problem?</li></ol><br>You each have roughy 4 minutes to explain and 3 minutes for Q&amp;A. Your task is to provide a very broad, aggregate view. Let us ask you to fill in some of the gaps during the Q&amp;A. Peers, be prepared to quickly ask questions and provide generous support and feedback about their aims and direction. Please submit your slides to me before class by using the <em>Email Collaborators</em> function, so I can copy-paste them into a single Google Slides template for us to use in class.' ]
 
