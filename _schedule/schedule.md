@@ -171,12 +171,12 @@ schedule:
           readings: [
             'As needed project research.', 'Haas, C. (1996). Chapter 8, "Historicizing technology," in <cite>Writing technology: Studies on the materiality of literacy</cite> (pp. 205-223). New York, NY: Routledge.', ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+            'At least 2 fieldnotes + at least 1-2 memos.', 'Be prepared to discuss Haas in class. As you read, try to map out some genre moves, if you will, with regards to her own historicizing of print/computer literacy technologies.', 'Locate, organize, and bring a list of potential sources that will help you historicize your unit. The list should categorize bodies of sources as doing certain kinds of work for you. We will use that list in class, when paired up with a colleague.' ]
       thu:
         - date: 2018-04-05
           desc: 'Historicizing work, continued'
-          readings: [ 'As needed.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+          readings: [ 'Historicizing research as needed.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos. Use these memos to start considering how your historicizing work speaks to your unit and what assumptions you held/hold about that unit.', 'TBA' ]
 
     - num: 13
       wkh: 'Progress Reports'
