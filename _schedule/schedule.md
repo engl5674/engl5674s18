@@ -179,19 +179,19 @@ schedule:
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos. Use these memos to start considering how your historicizing work speaks to your unit and what assumptions you held/hold about that unit.', 'TBA' ]
 
     - num: 13
-      wkh: 'Progress Reports'
+      wkh: 'Artifact Action'
       tue:
         - date: 2018-04-10
-          desc: 'Progress Presentations -- Day 1'
+          desc: 'Artifact Action -- Day 1'
           readings: [
             'As needed.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+            'At least 2 fieldnotes + at least 1-2 memos.', 'Bring in a problem or working theory about what you see with regards to your rhetorical analysis work. Be prepared to demonstrate to your group what you see operating and how it speaks back to your rhetorical theory. I think the best artifact/demo will be something that is <strong>NOT</strong> quite "fitting" with how previous scholars have discussed a concept of importance.' ]
       thu:
         - date: 2018-04-12
-          desc: 'Progress Presentations -- Day 2'
+          desc: 'Artifact Action -- Day 2'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happenned, and what your next steps will be because of it.' ]
 
     - num: 14
       wkh: 'Dr. Mucklebauer Visit &amp; Autoethnography Examples'
@@ -210,7 +210,7 @@ schedule:
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
 
     - num: 15
-      wkh: 'Draft Workshops'
+      wkh: 'Writing It Up! Draft Workshops'
       tue:
         - date: 2018-04-24
           desc: 'Workshop on Introduction + Methodology'
