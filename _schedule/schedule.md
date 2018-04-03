@@ -175,8 +175,9 @@ schedule:
       thu:
         - date: 2018-04-05
           desc: 'Historicizing work, continued'
-          readings: [ 'Historicizing research as needed.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos. Use these memos to start considering how your historicizing work speaks to your unit and what assumptions you held/hold about that unit.', 'TBA' ]
+          readings: [ 'Reread your historicizing works as needed.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos. Use these memos to start considering how your historicizing work speaks to your unit and what assumptions you held/hold about that unit.', 'Revise your list from Tuesday. How do the groups of scholarship differ / operate for you in your project? Bring a revised breakdown of your historicizing work for another round of review work.' ]
+          other: [ 'In class, we will also take some time to reflect on our project progress, boundaries, concerns, etc.' ]
 
     - num: 13
       wkh: 'Artifact Action'
