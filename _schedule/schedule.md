@@ -185,9 +185,9 @@ schedule:
         - date: 2018-04-10
           desc: 'Artifact Action -- Day 1'
           readings: [
-            'As needed.', 'TBA' ]
+            'As needed.' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'Bring in a problem or working theory about what you see with regards to your rhetorical analysis work. Be prepared to demonstrate to your group what you see operating and how it speaks back to your rhetorical theory. I think the best artifact/demo will be something that is <strong>NOT</strong> quite "fitting" with how previous scholars have discussed a concept of importance.' ]
+            'At least 2 fieldnotes + at least 1-2 memos.', 'Bring in an artifact(s) that help you describe a working theory about what you see with regards to your rhetorical analysis work. Be prepared to provide clear claims about what you see operating, and how your artifacts provide evidence for such claims about rhetorical action at work. Be sure to describe to whom this theory/idea speaks. I think the best artifact/demo will be something that is <strong>NOT</strong> quite "fitting" with how previous scholars have discussed a concept of importance.' ]
       thu:
         - date: 2018-04-12
           desc: 'Artifact Action -- Day 2'
