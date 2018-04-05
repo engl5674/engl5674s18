@@ -26,6 +26,14 @@ You will conduct an autoethnographic study of your own, situated, lived rhetoric
 - Construct and refine a rhetorical research problem.
 - Construct and refine a preliminary methodology to study it / make sense of it.
 
+## Project Notes Derived from Class Discussions
+
+Regarding historicizing work, we discussed myriad ways that this work could manifest in your paper:
+
+- Problem construction: Could help you frame the broader "so what?" that your work addresses.
+- Material for your literature review: Who are you conversing with and how they theorize this problem, issue, concept, thing/event?
+- Historicize scientific activity or technical procedure could challenge RST focus on rhetoric as merely discursive. In this, historicizing becomes direct object of study.
+
 ## Rubric
 
 <ul>
