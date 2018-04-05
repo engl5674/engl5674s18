@@ -30,9 +30,11 @@ You will conduct an autoethnographic study of your own, situated, lived rhetoric
 
 Regarding historicizing work, we discussed myriad ways that this work could manifest in your paper:
 
-- Problem construction: Could help you frame the broader "so what?" that your work addresses.
+- Problem construction: Could help you frame the broader "So what?" that your work addresses.
 - Material for your literature review: Who are you conversing with and how they theorize this problem, issue, concept, thing/event?
 - Historicize scientific activity or technical procedure could challenge RST focus on rhetoric as merely discursive. In this, historicizing becomes direct object of study.
+
+Regarding how to write up your paper, we will review the following example autoethnographies on <a href="https://drive.google.com/drive/folders/17zwotwdo-zVg6IQfxmLgohDRbvoDlHQX?usp=sharing" target="_blank">Google Drive</a>.
 
 ## Rubric
 
