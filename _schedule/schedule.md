@@ -192,7 +192,7 @@ schedule:
         - date: 2018-04-12
           desc: 'Artifact Action -- Day 2'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happened, and what your next steps will be because of it.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happened, and what your next steps will be because of it.', 'Bring:<ul><li>2-3 artifacts (memos, images/things, etc.)</li><li>An outline of your claims about the rhetoric at work. The outline should be prefaced by your working concept and have major premises backed up by your evidence provided.</li><li>Include a question/problem that you are wrestling with. For example, do other data counter any working claims/ideas? If so, how so? How might it be addressed and call for new language regarding the rhetoric at work?</li></ul>' ]
 
     - num: 14
       wkh: 'Dr. Mucklebauer Visit &amp; Autoethnography Examples'
