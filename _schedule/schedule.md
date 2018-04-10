@@ -200,10 +200,9 @@ schedule:
         - date: 2018-04-17
           desc: 'Special Guest: Dr. Mucklebauer'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+            'As needed: artifacts, fieldwork, etc.', 'Listen to an interview with Dr. Mucklebauer, wherein he discusses his work (Alford for <a href="https://rhetoricity.libsyn.com/planting-rhetorics-future-an-interview-with-john-muckelbauer" target="_blank">Rhetoricity</a>)' ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
-          other: [ 'I will consider ways for us to take advantage of this special opportunity. Perhaps we can ask Mucklebauer how he develops his own research problems and agendas.' ]
       thu:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
