@@ -187,12 +187,12 @@ schedule:
           readings: [
             'As needed.' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'Bring in an artifact(s) that help you describe a working theory about what you see with regards to your rhetorical analysis work. Be prepared to provide clear claims about what you see operating, and how your artifacts provide evidence for such claims about rhetorical action at work. Be sure to describe to whom this theory/idea speaks. I think the best artifact/demo will be something that is <strong>NOT</strong> quite "fitting" with how previous scholars have discussed a concept of importance.' ]
+            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'Bring in an artifact(s) that help you describe a working theory about what you see with regards to your rhetorical analysis work. Be prepared to provide clear claims about what you see operating, and how your artifacts provide evidence for such claims about rhetorical action at work. Be sure to describe to whom this theory/idea speaks. I think the best artifact/demo will be something that is <strong>NOT</strong> quite "fitting" with how previous scholars have discussed a concept of importance.' ]
       thu:
         - date: 2018-04-12
           desc: 'Artifact Action -- Day 2'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happenned, and what your next steps will be because of it.' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happened, and what your next steps will be because of it.' ]
 
     - num: 14
       wkh: 'Dr. Mucklebauer Visit &amp; Autoethnography Examples'
@@ -202,13 +202,13 @@ schedule:
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
           other: [ 'I will consider ways for us to take advantage of this special opportunity. Perhaps we can ask Mucklebauer how he develops his own research problems and agendas.' ]
       thu:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
 
     - num: 15
       wkh: 'Writing It Up! Draft Workshops'
@@ -218,12 +218,12 @@ schedule:
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
       thu:
         - date: 2018-04-26
           desc: 'Workshop on Findings/Analysis'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
 
     - num: 16
       wkh: 'Concluding Thoughts &amp; Trajectories'
@@ -233,7 +233,14 @@ schedule:
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos.', 'TBA' ]
+            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
+
+    - num: 16
+      wkh: 'Final Papers Due'
+      tue:
+        - date: 2018-05-08
+          desc: 'Submit Final Paper'
+          assign: [ 'Submit your final paper (15-25 pages) via Google Drive by 11:59pm. Ph.D. Students, be sure to write up a 2-3 page reflection about your rhetorical methodology. Attach it as an appendix to your final paper.' ]
 ---
 
 - num: 2
