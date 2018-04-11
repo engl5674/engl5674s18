@@ -206,8 +206,8 @@ schedule:
       thu:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
-          readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
+          readings: [ '' ]
+          assign: [ '' ]
 
     - num: 15
       wkh: 'Writing It Up! Draft Workshops'
@@ -217,12 +217,12 @@ schedule:
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
+            'Draft up your introduction and methodology (analytical); introduction and _____ (evocative). Draft it up in Google Docs and share it with your group prior to class time. We will conduct peer reviews in class, and we will rely on some of the knowledge about some potential writing methods that we discussed from last week.' ]
       thu:
         - date: 2018-04-26
           desc: 'Workshop on Findings/Analysis'
           readings: [ 'As needed: artifacts, fieldwork, etc.' ]
-          assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
+          assign: [ 'Draft up your findings and analysis (analytical); _____ (evocative). Draft it up in the same Google Doc as before. We will conduct peer reviews in class.' ]
 
     - num: 16
       wkh: 'Concluding Thoughts &amp; Trajectories'
@@ -232,7 +232,7 @@ schedule:
           readings: [
             'As needed: artifacts, fieldwork, etc.', 'TBA' ]
           assign: [
-            'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
+            'TBA' ]
 
     - num: 16
       wkh: 'Final Papers Due'
