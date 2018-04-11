@@ -235,7 +235,7 @@ schedule:
           assign: [
             'TBA' ]
 
-    - num: 16
+    - num: 17
       wkh: 'Final Papers Due'
       tue:
         - date: 2018-05-08
