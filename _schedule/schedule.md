@@ -207,7 +207,8 @@ schedule:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
           readings: [ '' ]
-          assign: [ '' ]
+          assign: [ 'In your peer groups, choose a set of 4 AEs to read for form from the Google Drive folder: 2 analytical, 2 evocative.' ]
+          other: [ 'In class, your groups will map out analytical and evocative genres, writing up some guidelines to share with the rest of the class.' ]
 
     - num: 15
       wkh: 'Writing It Up! Draft Workshops'
