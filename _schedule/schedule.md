@@ -206,7 +206,7 @@ schedule:
       thu:
         - date: 2018-04-19
           desc: 'Learning from AE examples: On writing up your work'
-          readings: [ 'In your peer groups, choose a set of 4 AEs to read for form from the Google Drive folder: 2 analytical, 2 evocative.' ]
+          readings: [ 'In your peer groups, choose a set of 4 AEs to read for form from the Google Drive folder: 2 analytical, 2 evocative. As a group choose the 4 articles, and each person reads 2 -- one of each kind. In other words, each person is responsible for 2 articles.' ]
           assign: [ 'Take notes about the varied forms and argumentative grooves of each piece. Essentially, reverse engineer these pieces: Reverse outline them, outline them, and jot notes about their similarities, differences, interesting moves, or moves that do not seem to work.' ]
           other: [ 'In class, your groups will map out analytical and evocative genres, writing up some guidelines to share with the rest of the class.' ]
 
