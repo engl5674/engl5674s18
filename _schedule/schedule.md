@@ -195,12 +195,12 @@ schedule:
           assign: [ 'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'Based on what you gleaned form last time, we will conduct another round with the same groups. Tell them how your ideas have progressed since last time, how that progress happened, and what your next steps will be because of it.', 'Bring:<ul><li>2-3 artifacts (memos, images/things, etc.)</li><li>An outline of your claims about the rhetoric at work. The outline should be prefaced by your working concept and have major premises backed up by your evidence provided.</li><li>Include a question/problem that you are wrestling with. For example, do other data counter any working claims/ideas? If so, how so? How might it be addressed and call for new language regarding the rhetoric at work?</li></ul>' ]
 
     - num: 14
-      wkh: 'Dr. Mucklebauer Visit &amp; Autoethnography Examples'
+      wkh: 'Dr. Muckelbauer Visit &amp; Autoethnography Examples'
       tue:
         - date: 2018-04-17
-          desc: 'Special Guest: Dr. Mucklebauer'
+          desc: 'Special Guest: Dr. Muckelbauer'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'Listen to an interview with Dr. Mucklebauer, wherein he discusses his work (Alford for <a href="https://rhetoricity.libsyn.com/planting-rhetorics-future-an-interview-with-john-muckelbauer" target="_blank">Rhetoricity</a>)', 'Also, read this short article by Mucklebauer, "What is Rhetoric?" (<a href="http://enculturation.net/5_2/muckelbauer.html" target="_blank">Enculturation 5.1, 2004</a>). This question was posed early into our semester, so it may be fruitful to go back to it during our visit with him.' ]
+            'As needed: artifacts, fieldwork, etc.', 'Listen to an interview with Dr. Muckelbauer, wherein he discusses his work (Alford for <a href="https://rhetoricity.libsyn.com/planting-rhetorics-future-an-interview-with-john-muckelbauer" target="_blank">Rhetoricity</a>)', 'Also, read this short article by Muckelbauer, "What is Rhetoric?" (<a href="http://enculturation.net/5_2/muckelbauer.html" target="_blank">Enculturation 5.1, 2004</a>). This question was posed early into our semester, so it may be fruitful to go back to it during our visit with him.' ]
           assign: [
             'At least 2 fieldnotes + at least 1-2 memos OR 3-4 memos.', 'TBA' ]
       thu:
