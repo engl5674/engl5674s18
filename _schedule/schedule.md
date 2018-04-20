@@ -226,14 +226,11 @@ schedule:
           assign: [ 'Draft up your findings and analysis (analytical); _____ (evocative). Draft it up in the same Google Doc as before. We will conduct peer reviews in class.' ]
 
     - num: 16
-      wkh: 'Concluding Thoughts &amp; Trajectories'
+      wkh: 'Conferences'
       tue:
         - date: 2018-05-01
-          desc: 'Concluding Activity: Networked Trajectories'
-          readings: [
-            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
-          assign: [
-            'TBA' ]
+          desc: 'Voluntary Conferences'
+          other: [ 'No class. Instead, if you would like some specific guidance, feel free to make an appointment with me.' ]
 
     - num: 17
       wkh: 'Final Papers Due'
