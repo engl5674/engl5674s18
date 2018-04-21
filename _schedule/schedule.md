@@ -216,7 +216,7 @@ schedule:
         - date: 2018-04-24
           desc: 'Workshop on Introduction + Methodology'
           readings: [
-            'As needed: artifacts, fieldwork, etc.', 'TBA' ]
+            'As needed: artifacts, fieldwork, etc.' ]
           assign: [
             'Draft up your introduction and methodology (analytical); introduction and _____ (evocative). Draft it up in Google Docs and share it with your group prior to class time. We will conduct peer reviews in class, and we will rely on some of the knowledge about some potential writing methods that we discussed from last week.' ]
       thu:
